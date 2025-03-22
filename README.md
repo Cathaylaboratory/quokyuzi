@@ -1,5 +1,5 @@
-# Dictionary for Cantonese Quok Yu Chi 
-# Yuẹt Yữ Quók Yữ Chị Chị Dỉn粵語國語字字典
-the dictionary file for Cantonese Quok Yu Chi
+# Dictionary for Script of the National Language for Cantonese 
+# Oạt Ngữ Quóc Ngữ Tị Tị Điển粵語國語字字典
+the dictionary file for Script of the National Language for Cantonese 
 
-Yuẹt Yữ Quók Yữ Chị Chị Dỉn粵語國語字字典
+Oạt Ngữ Quóc Ngữ Tị Tị Điển粵語國語字字典
