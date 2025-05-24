@@ -58,16 +58,16 @@
 詏	(文)áo
 靿	áo
 𥁒	áo
-哎	(又)ay/(又)ê
-唉	(又)ay/(又)ê
-矮	(白)ay/(白)ê
+哎	(又)ay
+唉	(又)ay
+矮	(白)ay
 矮	ảy/ể
 嫕	áy/ế
 曀	áy/ế
 瞖	áy/ế
 縊	áy/ế
 翳	áy/ế
-唉	(又)ạy/(又)ệ
+唉	(又)ạy
 偓	ăc
 厄	ăc
 呃	ăc
@@ -254,7 +254,7 @@
 𨃅	bay/bê
 鎞	bay/bê
 稗	(又)bảy/(又)bể
-背	(語)báy/(語)bế
+背	(語)báy
 蔽	(書)báy/(書)bế
 閉	báy/bế
 坒	bạy/bệ
@@ -3339,11 +3339,11 @@
 鉸	(文)káo
 攪	(語)kạo
 㚻	kay/kê
-機	(語)kay/(語)kê
+機	(語)kay
 枅	kay/kê
 笄	kay/kê
-給	(語)kay/(語)kê
-肌	(語)kay/(語)kê
+給	(語)kay
+肌	(語)kay
 雞	kay/kê
 鷄	kay/kê
 偈	(語)kảy/(語)kể
@@ -5221,10 +5221,10 @@
 鷂	(又)yào
 棹	(白)yạo
 櫂	(白)yạo
-差	(語)yày/(語)yề
+差	(語)yày
 𠯋	yày/yề
-跇	(白)yãy/(白)yễ
-跩	(白)yãy/(白)yễ
+跇	(白)yãy
+跩	(白)yãy
 勩	(又)yạy/(又)yệ
 抴	yạy/yệ
 拽	yạy/yệ
@@ -7246,7 +7246,7 @@
 麗	lạy/lệ
 例	lạy/lệ
 儷	lạy/lệ
-利	(又)lạy/(又)lệ
+利	(又)lạy
 勵	lạy/lệ
 厲	lạy/lệ
 捩	lạy/lệ
@@ -8322,16 +8322,16 @@
 謎	(書)mày/(書)mề
 迷	(書)mày/(書)mề
 醚	(書)mày/(書)mề
-媄	(又)mãy/(又)mễ
+媄	(又)mãy
 洣	mãy/mễ
-渼	(又)mãy/(又)mễ
+渼	(又)mãy
 眯	mãy/mễ
 瞇	mãy/mễ
 米	mãy/mễ
-美	(新)mãy/(新)mễ
+美	(新)mãy
 脒	mãy/mễ
-鎂	(又)mãy/(又)mễ
-咪	(語)mạy/(語)mệ
+鎂	(又)mãy
+咪	(語)mạy
 袂	mạy/mệ
 嘜	(外)măc
 嚜	măc
@@ -11521,7 +11521,7 @@
 銻	thay/thê
 体	thảy/thể
 體	thảy/thể
-睇	thảy/thể
+睇	thảy
 剃	tháy/thế
 嚏	tháy/thế
 屜	tháy/thế
@@ -12753,9 +12753,9 @@
 躋	chay/chê
 齏	chay/chê
 隮	chay/chê
-仔	chảy/chể
-囝	(訓)chảy/(訓)chể
-崽	(白)chảy/(白)chể
+仔	chảy
+囝	(訓)chảy
+崽	(白)chảy
 濟	chảy/chể
 滓	(訓)chảy/(訓)chể
 䎺	cháy/chế
@@ -13998,7 +13998,7 @@
 上書	sưỡng sư
 上課	sưỡng phó
 上課	sưỡng khó
-上堂	sưỡng tòng
+上堂	sưỡng thòng
 上聲	sưỡng sênh
 上去	sưỡng hứ
 上班	sưỡng ban
@@ -14006,7 +14006,7 @@
 爬上	pà sưỡng
 考上	hảo sưỡng
 送上	slúng sưỡng
-迎頭趕上	yình tầu kỏn sưỡng
+迎頭趕上	yình thầu kỏn sưỡng
 上午	sượng ñg
 上司	sượng si
 上司	sượng su
@@ -14021,9 +14021,9 @@
 上下	sượng hạ
 上行下效	sượng hằng hạ hạo
 後來居上	hậu lòi kư sượng
-中土	chung tổ
+中土	chung thổ
 中心	chung slâm
-中天	chung tiên
+中天	chung thiên
 中介	chung kái
 中允	chung vẫn
 中古	chung kổ
@@ -14041,7 +14041,7 @@
 中流	chung lầu
 中原	chung yoàn
 中堅	chung kiên
-中堂	chung tòng
+中堂	chung thòng
 中游	chung yầu
 中華	chung và
 中葉	chung yiệp
@@ -14053,8 +14053,8 @@
 中鋒	chung phung
 中層	chung xằng
 中興	chung hinh
-中斷	chung toãn
-中斷	chung toãn
+中斷	chung thoãn
+中斷	chung thoãn
 適中	sich chung
 當中	đong chung
 中世紀	chung sáy kỉ/chung sế kỉ
@@ -14119,7 +14119,7 @@
 予取予求	yừ xử yừ khầu
 于飛	yừ phi
 于歸	yừ quy
-于闐	yừ tiền
+于闐	yừ thiền
 亟待	kich đọi
 亟亟	kich kich
 需款甚亟	slư phổn sậm kich
@@ -14137,7 +14137,7 @@
 仆街	puc kai
 仆住	puc chự
 仆開	puc hoi
-仆喺	puc hảy/puc hể
+仆喺	puc hảy
 前仆後繼	xiền puc hậu káy/xiền puc hậu kế
 姓仇	slính xầu
 仔肩	chủ kiên
@@ -14152,14 +14152,14 @@
 仔密	chỉ mật
 仔孫	chủ sloan
 仔孫	chỉ sloan
-男仔	nàm chảy/nàm chể
-女仔	nữ chảy/nữ chể
-仔女	chảy nữ/chể nữ
-豬仔	chư chảy/chư chể
-雞仔	kay chảy/kê chể
-靚仔	lếnh chảy/lếnh chể
-肥仔	phì chảy/phì chể
-打工仔	đả kung chảy/đả kung chể
+男仔	nàm chảy
+女仔	nữ chảy
+仔女	chảy nữ
+豬仔	chư chảy
+雞仔	kay chảy/kê chảy
+靚仔	lếnh chảy
+肥仔	phì chảy
+打工仔	đả kung chảy
 打仗	đả chướng
 勝仗	sính chướng
 敗仗	bại chướng
@@ -14233,7 +14233,7 @@
 供佛	kúng phật
 供祖宗	kúng chổ chung
 供桌	kúng chước
-供檯	kúng tòi
+供檯	kúng thòi
 供事	kúng sụ
 供事	kúng sị
 供職	kúng chich
@@ -14242,7 +14242,7 @@
 隨便	xồi biển
 便利	biện lị
 方便	phong biện
-便條	biện tiều
+便條	biện thiều
 便捷	biện chiệt
 便飯	biện phạn
 便當	biện đóng
@@ -14268,25 +14268,25 @@
 大腹便便	đại phuc piền piền
 口舌便給	hẩu siệt piền khâp
 万俟	mặc khì
-倥侗	hung tùng
+倥侗	hung thùng
 倥傯	hủng chủng
 侗族	đụng chục
-倒塌	đổ táp
+倒塌	đổ tháp
 倒水	đổ sổi
 倒茶	đổ xà
 倒垃圾	đổ lạp sláp
 打倒	đả đổ
 倒戈	đổ ko
 倒閉	đổ báy/đổ bế
-倒臺	đổ tòi
+倒臺	đổ thòi
 倒胃口	đổ ụy hẩu
 跌倒	điết đổ
 顛倒	điên đổ
 倒手	đổ sẩu
 倒班	đổ ban
-倒替	đổ táy/đổ tế
+倒替	đổ tháy/đổ thế
 倒出	đổ xoat
-倒坍	đổ tan
+倒坍	đổ than
 倒嗓子	đổ slong chủ
 倒嗓子	đổ slong chỉ
 倒楣	đổ mì
@@ -14295,12 +14295,12 @@
 倒掟	đố đếnh
 倒敘	đố chự
 倒敍	đố chự
-倒退	đố tối
-倒貼	đố tiếp
+倒退	đố thối
+倒貼	đố thiếp
 倒置	đố chí
 倒懸	đố yoàn
 倒吊	đố điếu
-倒褪	đố tấn
+倒褪	đố thấn
 倒影	đố yỉnh
 倒映	đố yỉnh
 倒數	đố sổ
@@ -14308,7 +14308,7 @@
 反倒	phản đố
 倒行逆施	đố hằng nịch si
 倒果爲因	đố kỏ ùy yân
-倒持泰阿	đố xì tái o
+倒持泰阿	đố xì thái o
 倒打一耙	đố đả yât pà
 牛扒	ngầu pả
 一打	yât đa
@@ -14324,8 +14324,8 @@
 假扮	kả bạn
 假冒	kả mộ
 假冒	kả mạo
-假托	kả tóc
-假託	kả tóc
+假托	kả thóc
+假託	kả thóc
 假借	kả ché
 假設	kả xiết
 假象	kả chượng
@@ -14398,7 +14398,7 @@
 傳教	xoàn káo
 傳授	xoàn sậu
 傳媒	xoàn mồi
-傳統	xoàn tủng
+傳統	xoàn thủng
 傳說	xoàn soát
 傳誦	xoàn chụng
 傳頌	xoàn chụng
@@ -14435,13 +14435,13 @@
 傳動	xoàn đụng
 傳出	xoàn xoat
 不教胡馬度陰山	bât kao ồ mã độ yâm san
-敢教日月換新天	kảm kao yật yoạt vộn slân tiên
+敢教日月換新天	kảm kao yật yoạt vộn slân thiên
 教書	káo sư
 教書	kéo sư
 僮僕	thùng pục
-書僮	sư tùng
-家僮	ka tùng
-三尺僮	slam xếc tùng
+書僮	sư thùng
+家僮	ka thùng
+三尺僮	slam xếc thùng
 僮族	chọng chục
 斤兩	kân lưởng
 一兩	yât lưởng
@@ -14488,7 +14488,6 @@
 冠縣	quôn yoạn
 冠狀	quôn chọng
 冠狀病毒	quôn chọng bệnh đục
-一切	yât xáy/yât xế
 本分	bổn phận
 分外	phận ngọi
 分量	phận lượng
@@ -14539,7 +14538,7 @@
 分解	phân kải
 分號	phân hộ
 分贓	phân chong
-分庭抗體	phân tình khóng tảy/phân tình khóng tể
+分庭抗體	phân thình khóng thảy/phân thình khóng thể
 分崩離析	phân băng lì slich
 分道揚鑣	phân độ yường biêu
 積分	chich phân
@@ -14566,7 +14565,7 @@
 成日	sềnh yật
 成街	sềnh kai
 成地	sềnh đị
-成頭	sềnh tầu
+成頭	sềnh thầu
 成百	sềnh bách
 冇成	mỗ sềnh
 成唔成	sềnh m̀ sềnh
@@ -14577,7 +14576,7 @@
 成朝早	sềnh chiêu chổ
 成村	sềnh xoan
 成棚	sềnh pành
-成條街	sềnh tiều kai
+成條街	sềnh thiều kai
 成晚	sềnh mãn
 成碌木	sềnh luc mục
 成隻	sềnh chếc
@@ -14681,19 +14680,19 @@
 吭聲	hăng sênh
 不吭聲	bât hăng sênh
 一聲不吭	yât sênh bât hăng
-否極泰來	pỉ kịch tái lòi
+否極泰來	pỉ kịch thái lòi
 臧否	chong pỉ
 天地否	thiên đị pỉ
 陟罰臧否	chich phạt chong pỉ
-否泰	pỉ tái
+否泰	pỉ thái
 酒吧	chẩu ba
-吧檯	ba tòi
+吧檯	ba thòi
 吧女	ba nữ
 網吧	mõng ba
 水吧	sổi ba
 清吧	xinh ba
-吧托	ba tóc
-吧廳	ba tênh
+吧托	ba thóc
+吧廳	ba thênh
 基吧	ki ba
 迪吧	địch ba
 泡吧	páo ba
@@ -14737,8 +14736,8 @@
 哄騙	hủng piến
 吞咽	thân yiến
 咽氣	yiến hí
-咽苦吐甜	yiến phổ tố tiềm
-狼吞虎咽	lòng tân phổ yiến
+咽苦吐甜	yiến phổ thố thiềm
+狼吞虎咽	lòng thân phổ yiến
 細嚼慢咽	sláy chước mạn yiến/slế chước mạn yiến
 咽喉	yiên hầu
 鼻咽	bị yiên
@@ -14749,7 +14748,7 @@
 悲咽	bi yiết
 填咽	thiền yiết
 咯血	khách hoát
-咯痰	khách tàm
+咯痰	khách thàm
 咯魚翅	khách yừ xí
 咯咯笑	kóc kóc sliếu
 咯崩	kóc băng
@@ -14779,7 +14778,7 @@
 花哩碌碌	pha li luc luc
 花哩花碌	pha li pha luc
 花哩胡碌	pha li ồ luc
-唉聲嘆氣	ai sênh tán hí
+唉聲嘆氣	ai sênh thán hí
 哦松	ngò xùng
 吟哦	yầm ngò
 吟沉	ngầm xầm
@@ -14793,7 +14792,7 @@
 喀什	hách sập
 喀什市	hách sập sĩ
 喀喇沁	hách la sấm
-喀土穆	hách tổ mục
+喀土穆	hách thổ mục
 喀布爾	hách bố yĩ
 喀斯特	hách su đặc
 喀斯特	hách si đặc
@@ -14808,7 +14807,7 @@
 喀納斯湖	hách nạp su ồ
 喀納斯湖	hách nạp si ồ
 喀爾巴阡山脈	hách yĩ ba xiên san mặc
-喀拉喀托火山	hách lai hách tóc phỏ san
+喀拉喀托火山	hách lai hách thóc phỏ san
 喀嚓	kha xát
 喀噠	kha đạt
 喀吧	kha ba
@@ -14820,13 +14819,13 @@
 喪氣	slóng hí
 喪心病狂	slóng slâm bệnh khòng
 喪家之犬	slóng ka chi hoản
-喪盡天良	slóng chận tiên lường
+喪盡天良	slóng chận thiên lường
 喪權辱國	slóng khoàn yục kóc
 頹喪	thồi slóng
 喪權	slóng khoàn
 喪偶	slóng ngẫu
 懊喪	ố slóng
-落魄	lọc tóc
+落魄	lọc thóc
 喪膽	slóng đảm
 喪鐘	slóng chung
 喪事	slong sụ
@@ -14881,7 +14880,7 @@
 圓圈	yoàn hoan
 圈子	hoan chủ
 圈子	hoan chỉ
-圈套	hoan tố
+圈套	hoan thố
 圈佔	hoan chiếm
 圈閱	hoan yoạt
 圈點	hoan điểm
@@ -14905,7 +14904,7 @@
 圈地運動	hoan đị vận đụng
 可圈可點	hỏ hoan hỏ điểm
 羅圈	lò hoan
-羅圈腿	lò hoan tổi
+羅圈腿	lò hoan thổi
 轉圈	choán hoan
 頸圈	kểnh hoan
 豬圈	chư koán
@@ -14927,7 +14926,7 @@
 本埠	bổn phậu
 外埠	ngọi phậu
 開埠	hoi phậu
-埠頭	bộ tầu
+埠頭	bộ thầu
 石埠	sệc bộ
 船埠	soàn bộ
 河埠	hò bộ
@@ -14946,7 +14945,7 @@
 出塞	xoat sói
 要塞	yếu sói
 塞翁失馬	sói yung sât mã
-壅土	ung tổ
+壅土	ung thổ
 壅肥	ung phì
 壅泥	ung này/ung nề
 壅罯	ung âp
@@ -14956,7 +14955,7 @@
 壅蔽	yung bị
 壅閉	yung báy/yung bế
 悲夫	bi phồ
-夫天地者	phồ tiên đị chẻ
+夫天地者	phồ thiên đị chẻ
 夫人不言	phồ yần bât yiền
 夫戰	phồ chiến
 逝者如斯夫	sạy chẻ yừ su phồ/sệ chẻ yừ su phồ
@@ -15000,7 +14999,7 @@
 好歹	hổ đải
 好手	hổ sẩu
 好看	hổ hón
-好睇	hổ tảy/hổ tể
+好睇	hổ thảy
 好醜	hổ xẩu
 美好	mĩ hổ
 好感	hổ kảm
@@ -15028,7 +15027,7 @@
 好好食	hổ hổ sịch
 好味	hổ mị
 好彩	hổ xỏi
-好聽	hổ tênh
+好聽	hổ thênh
 好命	hổ mệnh
 好合	hổ hập
 好呀	hổ a
@@ -15082,7 +15081,7 @@
 孱瑣	sàn slỏ
 孱微	sàn mì
 孱王	sàn vòng
-孱頭	xán tầu
+孱頭	xán thầu
 星宿	slinh slấu
 二十八宿	yị sập bát slấu
 二十八宿	yị sập bét slấu
@@ -15184,7 +15183,7 @@
 屏住	bỉnh chự
 屏住呼吸	bỉnh chự phô khâp
 屏息靜氣	bỉnh slich chịnh hí
-屏退	bỉnh tối
+屏退	bỉnh thối
 屏絕	bỉnh choạt
 屏風	pình phung
 熒屏	yình pình
@@ -15201,7 +15200,7 @@
 差可	xa hỏ
 差舛	xa xoản
 差池	xa xì
-差忒	xa tăc
+差忒	xa thăc
 差距	xa khữ
 差勁	xa kính
 差額	xa ngặc
@@ -15292,7 +15291,7 @@
 弄飯	nụng phạn
 弄錯	nụng xó
 里弄	lĩ lụng
-弄堂	lụng tòng
+弄堂	lụng thòng
 強大	khường đại
 強壯	khường chóng
 強硬	khường ngạnh
@@ -15328,7 +15327,7 @@
 強梁	khường lường
 強行	khường hằng
 強直	khường chịch
-強龍不壓地頭蛇	khường lùng bât át đị tầu sè
+強龍不壓地頭蛇	khường lùng bât át đị thầu sè
 硬要	ngảnh yếu
 硬係	ngảnh hạy/ngảnh hệ
 勉強	miễn khưỡng
@@ -15337,7 +15336,7 @@
 強迫	khưỡng bich
 強迫	khưỡng pách
 強辯	khưỡng biện
-強出頭	khưỡng xoat tầu
+強出頭	khưỡng xoat thầu
 強人所難	khưỡng yần slỏ nàn
 強詞奪理	khưỡng xù đoạt lĩ
 強詞奪理	khưỡng xì đoạt lĩ
@@ -15375,16 +15374,16 @@
 彈詞	thàn xì
 彈壓	thàn át
 彈冠相慶	thàn quôn slương hính
-評彈	pình tàn
+評彈	pình thàn
 彈性	thàn slính
-彈跳	thàn tiếu
+彈跳	thàn thiếu
 彈棉機	thàn miền ki
 彈羊毛	thàn yường mồ
 彈灰塵	thàn phôi xần
 彈鋼琴	thàn kóng khầm
 彈琵琶	thàn pì pà
 彈簧	thàn vòng
-冇得彈	mỗ đăc tàn
+冇得彈	mỗ đăc thàn
 發毛	phát mô
 彷彿	phỏng phât
 彷似	phỏng xũ
@@ -15426,7 +15425,7 @@
 可惡	hỏ ú
 厭惡	yiếm ú
 好惡	hố ú
-深惡痛絕	sâm ú túng choạt
+深惡痛絕	sâm ú thúng choạt
 羞惡之心	slâu ú chi slâm
 諱惡	ụy ú
 諱惡不悛	ụy ú bât sloan
@@ -15503,12 +15502,12 @@
 壓扁	át bẻn
 扁食	bẻn sịch
 扁舟	piên châu
-扁桃	piên tồ
-扁桃樹	piên tồ sự
-扁桃果	piên tồ kỏ
-扁桃	biển tồ
-扁桃腺	biển tồ sliến
-扁桃體	biển tồ tảy/biển tồ tể
+扁桃	piên thồ
+扁桃樹	piên thồ sự
+扁桃果	piên thồ kỏ
+扁桃	biển thồ
+扁桃腺	biển thồ sliến
+扁桃體	biển thồ thảy/biển thồ thể
 一葉扁舟	yât yiệp piên châu
 力能扛鼎	lịch nằng kong đỉnh
 折本	siệt bổn
@@ -15517,7 +15516,7 @@
 抹布	mát bố
 抹乾	mát kon
 抹身	mát sân
-抹檯	mát tòi
+抹檯	mát thòi
 抹桌子	mát chước chủ
 抹桌子	mát chước chỉ
 抹殺	mốt sát
@@ -15533,8 +15532,8 @@
 拓本	tháp bổn
 拓印	tháp yấn
 拓片	tháp piến
-拗斷	ảo toãn
-拗斷	ẻo toãn
+拗斷	ảo thoãn
+拗斷	ẻo thoãn
 拗折	ảo chiết
 拗折	ẻo chiết
 拗手瓜	ảo sẩu qua
@@ -15582,7 +15581,7 @@
 撈世界	lô sáy kái/lô sế kái
 乾撈	kon lô
 乾撈麪	kon lô miện
-撈仔	lao chảy/lao chể
+撈仔	lao chảy
 撈佬	lao lổ
 撈起	leo hỉ
 撈起	lao hỉ
@@ -15641,10 +15640,10 @@
 傳單	xoàn đan
 鬆散	slung slản
 散文	slản mần
-散套	slản tố
+散套	slản thố
 散髮	slản phát
 散儒	slản yừ
-散體	slản tảy/slản tể
+散體	slản thảy/slản thể
 懶散	lãn slản
 散兵游勇	slản binh yầu yũng
 散兵遊勇	slản binh yầu yũng
@@ -15652,7 +15651,7 @@
 投閒置散	thầu hàn chí slản
 投閑置散	thầu hàn chí slản
 散曲	slản khuc
-止痛散	chỉ túng slản
+止痛散	chỉ thúng slản
 散漫	slản mạn
 散裝	slản chong
 散亂	slản loạn
@@ -15666,7 +15665,7 @@
 明斷	mình đoán
 斷無此理	đoán mồ xủ lĩ
 斷無此理	đoán mồ xỉ lĩ
-折斷	chiết toãn
+折斷	chiết thoãn
 斷奶	thoãn nãi
 斷交	thoãn kao
 斷交	thoãn keo
@@ -15674,17 +15673,17 @@
 斷腸	thoãn xường
 斷氣	thoãn hí
 斷送	thoãn slúng
-買斷	mãi toãn
+買斷	mãi thoãn
 斷裂	thoãn liệt
 斷崖	thoãn ngài
 斷篇殘簡	thoãn piên xàn kản
 斷章取義	thoãn chương xử yị
-斷斷續續	thoãn toãn chục chục
-夢斷黃粱	mụng toãn vòng lường
+斷斷續續	thoãn thoãn chục chục
+夢斷黃粱	mụng thoãn vòng lường
 斷絕	thoãn choạt
-片斷	piến toãn
-當機立斷	đong ki lập toãn
-斷頭臺	thoãn tầu tòi
+片斷	piến thoãn
+當機立斷	đong ki lập thoãn
+斷頭臺	thoãn thầu thòi
 斷代史	thoãn đọi sảy/thoãn đọi sể
 容易	yùng yị
 難易	nàn yị
@@ -15714,7 +15713,7 @@
 墨暈	mặc vận
 頭暈	thầu vần
 暈厥	vần khoát
-暈頭轉向	vần tầu choán hướng
+暈頭轉向	vần thầu choán hướng
 暈車	vân xe
 暈船	vân soàn
 暈倒	vân đổ
@@ -15738,7 +15737,7 @@
 更迭	kăng điệt
 更新	kăng slân
 更動	kăng đụng
-更替	kăng táy/kăng tế
+更替	kăng tháy/kăng thế
 變更	biến kăng
 萬象更新	mạn chượng kăng slân
 自力更生	chụ lịch kăng sanh
@@ -15804,11 +15803,11 @@
 朝思暮想	chiêu su mộ slưởng
 朝思暮想	chiêu si mộ slưởng
 朝秦暮楚	chiêu xần mộ xỏ
-朝乾夕惕	chiêu khiền chịch tich
+朝乾夕惕	chiêu khiền chịch thich
 朝不保夕	chiêu bât bổ chịch
 朝霞	chiêu hà
 朝代	xiều đọi
-朝廷	xiều tình
+朝廷	xiều thình
 朝政	xiều chính
 朝貢	xiều kúng
 朝頂	xiều đỉnh
@@ -15826,7 +15825,7 @@
 明朝	mình xiều
 清朝	xinh xiều
 坐北朝南	xõ băc xiều nàm
-朝天	xiều tiên
+朝天	xiều thiên
 朝前	xiều xiền
 朝拜	xiều bái
 朝陽	xiều yường
@@ -15883,7 +15882,7 @@
 蘋果核	pình kỏ vật
 桃核	thồ vật
 杏核	hặng vật
-核桃	hật tồ
+核桃	hật thồ
 核心	hật slâm
 核子	hật chủ
 核子	hật chỉ
@@ -15910,7 +15909,7 @@
 楷式	khải sich
 楷則	khải chăc
 楷模	khải mo
-楷體	khải tảy/khải tể
+楷體	khải thảy/khải thể
 大楷	đại khải
 小楷	sliểu khải
 正楷	chính khải
@@ -15929,7 +15928,7 @@
 樂譜	ngọc pổ
 樂府	ngọc phổ
 奏樂	chấu ngọc
-樂壇	ngọc tàn
+樂壇	ngọc thàn
 樂章	ngọc chương
 交響樂	kao hưởng ngọc
 樂理	ngọc lĩ
@@ -15937,12 +15936,12 @@
 樂音	ngọc yâm
 快樂	phái lọc
 樂觀	lọc quôn
-樂土	lọc tổ
+樂土	lọc thổ
 樂事	lọc sụ
 樂事	lọc sị
 樂意	lọc yí
 樂趣	lọc xứ
-樂天知命	lọc tiên chi mịnh
+樂天知命	lọc thiên chi mịnh
 樂不可支	lọc bât hỏ chi
 樂不思蜀	lọc bât su sục
 樂不思蜀	lọc bât si sục
@@ -16007,7 +16006,7 @@
 旮旯	khá lá
 山旮旯	san khá lá
 骷髏	khô lô
-骷髏頭	khô lô tầu
+骷髏頭	khô lô thầu
 近視	kận sị
 近視眼	kận sị ngẽn
 沮其成行	chử khì sình hằng
@@ -16025,7 +16024,7 @@
 水泡	sổi péo
 冒泡	mộ pỗ
 泡泡	páo páo
-泡泡糖	páo páo tòng
+泡泡糖	páo páo thòng
 泡泡浴	páo páo yục
 泡泡紗	páo páo sa
 發泡	phát pỗ
@@ -16043,7 +16042,7 @@
 泡飯	páo phạn
 軟磨硬泡	yoãn mò ngạnh páo
 泡椒	páo chiêu
-泡湯	páo tong
+泡湯	páo thong
 泡腳	páo kước
 泡麪	páo miện
 泡溫泉	páo vân xoàn
@@ -16056,7 +16055,7 @@
 泡澡	páo chổ
 泡油	páo yầu
 泡發	páo phát
-泡騰	páo tằng
+泡騰	páo thằng
 泡屎	pao sỉ
 泡尿	pao niệu
 一泡屎	yât pao sỉ
@@ -16108,8 +16107,8 @@
 溜冰	liêu binh
 溜之大吉	liêu chi đại kât
 溜了	liêu liễu
-溜滑梯	liêu vẹt tay/liêu vẹt tê
-溜滑梯	liêu vạt tay/liêu vạt tê
+溜滑梯	liêu vẹt thay/liêu vẹt thê
+溜滑梯	liêu vạt thay/liêu vạt thê
 直溜下坡	chịch liêu hạ po
 滑溜	vạt liêu
 滑溜	vẹt liêu
@@ -16151,7 +16150,7 @@
 積潦	chich lỗ
 秋潦	xâu lỗ
 濟濟	chảy chảy/chể chể
-濟濟一堂	chảy chảy yât tòng/chể chể yât tòng
+濟濟一堂	chảy chảy yât thòng/chể chể yât thòng
 人才濟濟	yần xòi chảy chảy/yần xòi chể chể
 濟水	chảy sổi/chể sổi
 濟寧	chảy nình/chể nình
@@ -16162,7 +16161,7 @@
 羞澀	slâu sâp
 澀味	sâp mị
 澀訥	sâp nật
-澀體	sâp tảy/sâp tể
+澀體	sâp thảy/sâp thể
 晦澀	phối sâp
 艱澀	kan sâp
 艱澀	ken sâp
@@ -16172,7 +16171,7 @@
 炕桌	khóng chước
 火炕	phỏ khóng
 炕几	khóng ki
-炕頭	khóng tầu
+炕頭	khóng thầu
 炕枕	khóng chẩm
 炕沙	hóng sa
 炕麪包	hóng miện bao
@@ -16219,7 +16218,7 @@
 爲國捐軀	ụy kóc koan khư
 爲民請命	ụy mần xỉnh mịnh
 捨身爲國	sẻ sân ụy kóc
-爲虎添翼	ụy phổ tiêm yịch
+爲虎添翼	ụy phổ thiêm yịch
 焉能	yiên nằng
 焉得	yiên đăc
 焉得虎子	yiên đăc phổ chủ
@@ -16235,14 +16234,14 @@
 善莫大焉	siện mọc đại yiền
 焉能治之	yiền nằng chị chi
 燙斗	thóng đẩu
-洗燙	slảy tóng/slể tóng
+洗燙	slảy thóng/slể thóng
 燙衣服	thóng yi phục
 熨法	vận phát
-熨燙	vận tóng
+熨燙	vận thóng
 燙衫	thóng sam
 燙衫板	thóng sam bản
-熨貼	vât tiếp
-熨帖	vât tiếp
+熨貼	vât thiếp
+熨帖	vât thiếp
 燕子	yiến chủ
 燕子	yiến chỉ
 燕窩	yiến vo
@@ -16255,7 +16254,7 @@
 燕尾服	yiến mĩ phục
 燕妒鶯慚	yiến độ ăng xàm
 燕雀相賀	yiến xước slương họ
-燕雀處堂	yiến xước xữ tòng
+燕雀處堂	yiến xước xữ thòng
 燕巢幕上	yiến xào mọc sượng
 燕雀	yiến xước
 燕京	yiên kinh
@@ -16271,7 +16270,7 @@
 率直	sloat chịch
 率性	sloat slính
 率真	sloat chân
-率土之濱	sloat tổ chi bân
+率土之濱	sloat thổ chi bân
 率由舊章	sloat yầu kậu chương
 率馬以驥	sloat mã yĩ kí
 率獸食人	sloat sấu sịch yần
@@ -16285,7 +16284,7 @@
 率直	slât chịch
 率性	slât slính
 率真	slât chân
-率土之濱	slât tổ chi bân
+率土之濱	slât thổ chi bân
 率由舊章	slât yầu kậu chương
 率馬以驥	slât mã yĩ kí
 率獸食人	slât sấu sịch yần
@@ -16312,7 +16311,7 @@
 曲率	khuc lật
 機率	ki lật
 頻率	pần lật
-王天下	vọng tiên hạ
+王天下	vọng thiên hạ
 去玩	hứ vản
 玩遊戲	vản yầu hí
 玩遊戲機	vản yầu hí ki
@@ -16332,8 +16331,8 @@
 琿春縣	vần xân yoạn
 璦琿	ói uy
 璦琿	ói phay/ói phê
-璦琿條約	ói uy tiều yước
-璦琿條約	ói phay tiều yước/ói phê tiều yước
+璦琿條約	ói uy thiều yước
+璦琿條約	ói phay thiều yước/ói phê thiều yước
 玫瑰	mồi quý
 瑰寶	quy bổ
 玻璃	bo li
@@ -16373,14 +16372,14 @@
 畫屏	vả pình
 畫卷	vả koản
 畫面	vả miển
-畫圖	vạch tồ
+畫圖	vạch thồ
 畫一	vạch yât
 畫卯	vạch mão
 畫押	vạch áp
 畫地而趨	vạch đị yì xư
 畫地爲牢	vạch đị ùy lồ
 畫虎類狗	vạch phổ lội kẩu
-畫蛇添足	vạch sè tiêm chuc
+畫蛇添足	vạch sè thiêm chuc
 畫餅充飢	vạch bểnh xung ki
 畫龍點睛	vạch lùng điểm chinh
 畫肖像	vạch xiếu chượng
@@ -16430,12 +16429,12 @@
 當之無愧	đong chi mồ khúy
 當務之急	đong mộ chi kâp
 門當戶對	mồn đong ụ đối
-當頭棒喝	đong tầu bọng hót
+當頭棒喝	đong thầu bọng hót
 獨當一面	đục đong yât miện
 理當如此	lĩ đong yừ xủ
 理當如此	lĩ đong yừ xỉ
 螳臂當車	thòng bí đong xe
-當天	đong tiên
+當天	đong thiên
 當晚	đong mãn
 當日	đong yật
 當衆	đong chúng
@@ -16464,7 +16463,7 @@
 奮勇當先	phẫn yũng đong sliên
 一馬當先	yât mã đong sliên
 當中介人	đong chung kái yần
-當頭	đong tầu
+當頭	đong thầu
 興奮	hinh phận
 興奮	hinh phẫn
 一疋	yât pât
@@ -16484,14 +16483,14 @@
 盛飯	sình phạn
 盛滿	sình mỗn
 盛菜	sình xói
-盛湯	sình tong
+盛湯	sình thong
 盛載	sình chói
 盛殮	sình liểm
 太監	thái kám
 國子監	kóc chủ kám
 國子監	kóc chỉ kám
 阿監	á kám
-欽天監	hâm tiên kám
+欽天監	hâm thiên kám
 秘書監	bí sư kám
 監視	kam sị
 坐監	xõ kam
@@ -16542,7 +16541,7 @@
 相知	slương chi
 相思	slương su
 相思	slương si
-相託	slương tóc
+相託	slương thóc
 相差	slương xa
 相容	slương yùng
 相處	slương xữ
@@ -16635,7 +16634,7 @@
 磨練	mò liện
 磨礪	mò lạy/mò lệ
 磨杵成針	mò xữ sình châm
-磨穿鐵硯	mò xoan tiết yiện
+磨穿鐵硯	mò xoan thiết yiện
 磨磚成鏡	mò choan sình kếnh
 折磨	chiết mò
 琢磨	chóc mò
@@ -16697,7 +16696,7 @@
 禪林	siềm lầm
 禪師	siềm su
 禪師	siềm si
-禪堂	siềm tòng
+禪堂	siềm thòng
 坐禪	xõ siềm
 野狐禪	yẽ ồ siềm
 參禪	xam siềm
@@ -16719,7 +16718,7 @@
 熟稔	sục nẫm
 種植	chúng chịch
 種樹	chúng sự
-種田	chúng tiền
+種田	chúng thiền
 種牛痘	chúng ngầu đậu
 耕種	kanh chúng
 種因	chúng yân
@@ -16763,14 +16762,14 @@
 稱意	xính yí
 稱職	xính chich
 稱心如意	xính slâm yừ yí
-稱體裁衣	xính tảy xòi yi/xính tể xòi yi
+稱體裁衣	xính thảy xòi yi/xính thể xòi yi
 對稱	đối xính
 杆秤	kỏn xính
-秤砣	xính tò
+秤砣	xính thò
 秤鉤	xính ngâu
 秤鈎	xính ngâu
 杆稱	kỏn xính
-稱砣	xính tò
+稱砣	xính thò
 稱鉤	xính ngâu
 稱鈎	xính ngâu
 才德相稱	xòi đăc slương xính
@@ -16786,7 +16785,7 @@
 稱觴	xinh sương
 稱霸	xinh bá
 稱讚	xinh chán
-稱歎	xinh tán
+稱歎	xinh thán
 稱兄道弟	xinh hinh độ đạy/xinh hinh độ đệ
 稱孤道寡	xinh kô độ quả
 俗稱	chục xinh
@@ -16818,11 +16817,11 @@
 筠連	quân liền
 筠連縣	quân liền yoạn
 筠竹	vần chuc
-筠筒	vần tùng
+筠筒	vần thùng
 綠筠	lục vần
 松筠	xùng vần
 箱籠	slương lũng
-籠統	lũng tủng
+籠統	lũng thủng
 籠罩	lũng cháo
 籠罩	lũng chéo
 女紅	nữ kung
@@ -16855,7 +16854,7 @@
 累教不改	lỗi káo bât kỏi
 累年豐收	lỗi niền phung sâu
 連篇累牘	liền piên lỗi đục
-累土爲山	lỗi tổ ùy san
+累土爲山	lỗi thổ ùy san
 累建奇功	lỗi kiến khì kung
 累犯不改	lỗi phạn bât kỏi
 罪行累累	chội hằng lỗi lỗi
@@ -16889,7 +16888,7 @@
 裂縫	liệt phụng
 門縫	mồn phụng
 縫隙	phụng khuich
-一條縫	yât tiều phụng
+一條縫	yât thiều phụng
 見縫插針	kiến phụng xáp châm
 天衣無縫	thiên yi mồ phụng
 無縫	mồ phụng
@@ -16915,7 +16914,7 @@
 七擒七縱	xât khầm xât chụng
 縱情	chụng xình
 縱目	chụng mục
-縱身一跳	chụng sân yât tiếu
+縱身一跳	chụng sân yât thiếu
 縱火	chụng phỏ
 欲擒故縱	yục khầm kố chụng
 縱情歌唱	chụng xình ko xướng
@@ -16925,7 +16924,7 @@
 縱有	chụng yẫu
 縱然	chụng yiền
 縱身	chụng sân
-縱談	chụng tàm
+縱談	chụng thàm
 翟茀	địch phât
 翬翟	uy địch
 墨翟	mặc địch
@@ -16934,8 +16933,8 @@
 翹手	heo sẩu
 翹腳	kheo kước
 翹手	kheo sẩu
-翹二郎腿	heo yị lòng tổi
-翹二郎腿	kheo yị lòng tổi
+翹二郎腿	heo yị lòng thổi
+翹二郎腿	kheo yị lòng thổi
 翹起	heo hỉ
 翹起	kheo hỉ
 翹尾巴	heo mĩ ba
@@ -16973,9 +16972,9 @@
 聽聞	thênh mần
 聽覺	thênh kóc
 聽而不聞	thênh yì bât mần
-收聽	sâu tênh
+收聽	sâu thênh
 聽音樂	thênh yâm ngọc
-言聽計從	yiền tênh káy xùng/yiền tênh kế xùng
+言聽計從	yiền thênh káy xùng/yiền thênh kế xùng
 聽候	thính hậu
 聽其自然	thính khì chụ yiền
 聽其自然	thính khì chị yiền
@@ -16985,12 +16984,12 @@
 聽訟	thính chụng
 聽政	thính chính
 聽之任之	thính chi yậm chi
-聽天由命	thính tiên yầu mịnh
+聽天由命	thính thiên yầu mịnh
 聽裝	thính chong
-一聽	yât tênh
-一聽	yât tính
-兩聽	lưỡng tính
-幾聽	kỉ tính
+一聽	yât thênh
+一聽	yât thính
+兩聽	lưỡng thính
+幾聽	kỉ thính
 肥胖	phì pỗn
 胖子	pỗn chủ
 胖子	pỗn chỉ
@@ -16999,8 +16998,8 @@
 胖墩墩	pỗn đân đân
 胖乎乎	pỗn ồ ồ
 胖嘟嘟	pỗn đô đô
-胖頭魚	pỗn tầu yừ
-心廣體胖	slâm kỏng tảy pồn/slâm kỏng tể pồn
+胖頭魚	pỗn thầu yừ
+心廣體胖	slâm kỏng thảy pồn/slâm kỏng thể pồn
 背書	bội sư
 背誦	bội chụng
 耳背	yĩ bội
@@ -17037,7 +17036,7 @@
 馬背	mã bối
 腹背受敵	phuc bối sậu địch
 背面	bối miện
-力透紙背	lịch tấu chỉ bối
+力透紙背	lịch thấu chỉ bối
 背着手	bối chược sẩu
 背過臉去	bối kó liểm hứ
 背着	bối chược
@@ -17084,7 +17083,7 @@
 興趣	hính xứ
 興味	hính mị
 興會	hính vội
-興頭	hính tầu
+興頭	hính thầu
 興致勃勃	hính chí bột bột
 興高彩烈	hính kô xỏi liệt
 掃興	slố hính
@@ -17161,11 +17160,11 @@
 番茄	phan khè
 茄汁	khẻ châp
 茄瓜	khè qua
-舌苔	siệt toi
-黃苔	vòng toi
-白苔	bạch toi
-青苔	xênh tòi
-蒼苔	xong tòi
+舌苔	siệt thoi
+黃苔	vòng thoi
+白苔	bạch thoi
+青苔	xênh thòi
+蒼苔	xong thòi
 苔衣	thòi yi
 苔岑	thòi xầm
 苔箋	thòi xiêm
@@ -17227,7 +17226,7 @@
 着手	chược sẩu
 着意	chược yí
 着落	chược lọc
-着題	chược tày/chược tề
+着題	chược thày/chược thề
 着手成春	chược sẩu sình xoan
 着手成春	chược sẩu sình xân
 着陸	chược lục
@@ -17256,7 +17255,7 @@
 着即辦理	chược chich bạn lĩ
 着急	chược kâp
 着慌	chược phong
-上不着天	sượng bât chược tiên
+上不着天	sượng bât chược thiên
 下不着地	hạ bât chược đị
 歪打正着	vai đả chính chược
 妙着	miệu chược
@@ -17284,7 +17283,7 @@
 著手	chược sẩu
 著意	chược yí
 著落	chược lọc
-著題	chược tày/chược tề
+著題	chược thày/chược thề
 著手成春	chược sẩu sình xoan
 著手成春	chược sẩu sình xân
 著陸	chược lục
@@ -17313,7 +17312,7 @@
 著即辦理	chược chich bạn lĩ
 著急	chược kâp
 著慌	chược phong
-上不著天	sượng bât chược tiên
+上不著天	sượng bât chược thiên
 下不著地	hạ bât chược đị
 歪打正著	vai đả chính chược
 妙著	miệu chược
@@ -17382,7 +17381,7 @@
 秋收冬藏	xâu sâu đung xòng
 臥虎藏龍	ngọ phổ xòng lùng
 卧虎藏龍	ngọ phổ xòng lùng
-藏頭露尾	xòng tầu lộ mĩ
+藏頭露尾	xòng thầu lộ mĩ
 包藏禍心	bao xòng vọ slâm
 金屋藏嬌	kâm uc xòng kiêu
 笑裡藏刀	sliếu lĩ xòng đô
@@ -17420,7 +17419,7 @@
 處置	xữ chí
 處境	xữ kỉnh
 處罰	xữ phạt
-處之泰然	xữ chi tái yiền
+處之泰然	xữ chi thái yiền
 處心積慮	xữ slâm chich lự
 判處	pốn xữ
 五方雜處	ñg phong chạp xữ
@@ -17479,7 +17478,7 @@
 號叫	hồ kiếu
 號哭	hồ huc
 號喪	hồ slong
-號啕	hồ tồ
+號啕	hồ thồ
 怒號	nộ hồ
 鬼哭狼號	quỷ huc lòng hồ
 狂風怒號	khòng phung nộ hồ
@@ -17490,7 +17489,7 @@
 蛇蝎	sè khiết
 蛇蠍	sè khiết
 蛇心佛口	sè slâm phật hẩu
-蛇頭	sè tầu
+蛇頭	sè thầu
 杯弓蛇影	bôi kung sè yỉnh
 虛與委蛇	hư yữ ủy yì
 委蛇	ủy yì
@@ -17610,7 +17609,7 @@
 行話	hòng vạ
 行貨	hòng phó
 行輩	hòng bối
-行頭	hòng tầu
+行頭	hòng thầu
 品行	pẩn hằng
 罪行	chội hằng
 德行	đăc hằng
@@ -17635,13 +17634,13 @@
 被子	pĩ chủ
 被子	pĩ chỉ
 被絮	pĩ slứ
-被套	pĩ tố
+被套	pĩ thố
 被覆	pĩ phuc
 覆被	phuc pĩ
 被窩	pĩ vo
 被竇	pĩ đấu
 被單	pĩ đan
-被胎	pĩ toi
+被胎	pĩ thoi
 被鋪	pĩ pô
 被子植物	pĩ chủ chịch mật
 被子植物	pĩ chỉ chịch mật
@@ -17677,7 +17676,7 @@
 裨販	pì phán
 褪後	thấn hậu
 褪下	thấn hạ
-打倒褪	đả đố tấn
+打倒褪	đả đố thấn
 褪車	thấn xe
 褪過去	thấn kó hứ
 褪色	thối sich
@@ -17765,7 +17764,7 @@
 親善	xân siện
 親貴	xân quý
 親暱	xân nịch
-親痛仇快	xân túng xầu phái
+親痛仇快	xân thúng xầu phái
 覺醒	kóc slỉnh
 覺悟	kóc ṇg
 感覺	kảm khước
@@ -17873,12 +17872,12 @@
 解凍	kải đúng
 解除	kải xừ
 解救	kải kấu
-解脫	kải toát
+解脫	kải thoát
 解詁	kải kổ
 解圍	kải ùy
 解釋	kải slich
-解甲歸田	kải káp quy tiền
-解衣推食	kải yi tôi sịch
+解甲歸田	kải káp quy thiền
+解衣推食	kải yi thôi sịch
 解弦更張	kải yiền kăng chương
 更張	kăng chương
 姓解	slính hại
@@ -17897,7 +17896,7 @@
 計數	káy số/kế số
 估計	kổ káy/kổ kế
 計謀	káy mầu/kế mầu
-計仔	kảy chảy/kể chể
+計仔	kảy chảy/kể chảy
 諗計	nẩm kảy/nẩm kể
 恁計	nẩm kảy/nẩm kể
 冇計	mỗ kảy/mỗ kể
@@ -17992,7 +17991,7 @@
 聲調	sênh điệu
 陳詞濫調	xần xù lạm điệu
 陳詞濫調	xần xì lạm điệu
-老調重彈	lỗ điệu xùng tàn
+老調重彈	lỗ điệu xùng thàn
 情調	xình điệu
 筆調	bât điệu
 大調	đại điệu
@@ -18022,20 +18021,20 @@
 調理	thiều lĩ
 調解	thiều kải
 調教	thiều káo
-調停	thiều tình
+調停	thiều thình
 調節	thiều chiết
 調劑	thiều chay/thiều chê
 調戲	thiều hí
 調脂弄粉	thiều chi nụng phẩn
 調嘴學舌	thiều chổi học siệt
-協調	hiếp tiều
-風調雨順	phung tiều yữ soạn
-風調雨順	phung tiều yữ sận
+協調	hiếp thiều
+風調雨順	phung thiều yữ soạn
+風調雨順	phung thiều yữ sận
 調酒	thiều chẩu
 調酒師	thiều chẩu su
 調酒師	thiều chẩu si
-衆口難調	chúng hẩu nàn tiều
-眾口難調	chúng hẩu nàn tiều
+衆口難調	chúng hẩu nàn thiều
+眾口難調	chúng hẩu nàn thiều
 調價	thiều ká
 調情	thiều xình
 調羹	thiều kăng
@@ -18079,8 +18078,8 @@
 賈其餘勇	kổ khì yừ yũng
 富商大賈	phố sương đại kổ
 多錢善賈	đo xiền siện kổ
-私賈民田	su kổ mần tiền
-私賈民田	si kổ mần tiền
+私賈民田	su kổ mần thiền
+私賈民田	si kổ mần thiền
 賈馬	kổ mã
 餘勇可賈	yừ yũng hỏ kổ
 蹊蹺	khay khiểu/khê khiểu
@@ -18125,23 +18124,23 @@
 石輾	sệc nẻn
 輾中藥	nẻn chung yược
 輾壓	nẻn át
-一米	yât may/yât mê
-兩米	lưỡng may/lưỡng mê
-三米	slam may/slam mê
-四米	slí may/slí mê
-五米	ñg may/ñg mê
-六米	lục may/lục mê
-七米	xât may/xât mê
-八米	bét may/bét mê
-八米	bát may/bát mê
-九米	kẩu may/kẩu mê
-零米	lình may/lình mê
-十米	sập may/sập mê
-千米	xiên may/xiên mê
-百米	bách may/bách mê
-萬米	mạn may/mạn mê
-平方米	pình phong may/pình phong mê
-立方米	lập phong may/lập phong mê
+一米	yât may
+兩米	lưỡng may
+三米	slam may
+四米	slí may
+五米	ñg may
+六米	lục may
+七米	xât may
+八米	bét may
+八米	bát may
+九米	kẩu may
+零米	lình may
+十米	sập may
+千米	xiên may
+百米	bách may
+萬米	mạn may
+平方米	pình phong may
+立方米	lập phong may
 轉動	choán đụng
 轉得快	choán đăc phái
 轉圓圈	choán yoàn hoan
@@ -18151,10 +18150,10 @@
 轉子	choán chỉ
 轉悠	choán yầu
 轉軸	choán chục
-轉臺	choán tòi
+轉臺	choán thòi
 轉盤	choán pồn
 轉爐	choán lồ
-團團轉	thoàn toàn choán
+團團轉	thoàn thoàn choán
 轉一轉	choán yât choán
 一轉	yât choán
 兩轉	lưỡng choán
@@ -18178,7 +18177,7 @@
 轉述	choản sloạt
 轉述	choản slật
 轉述	choản sật
-轉託	choản tóc
+轉託	choản thóc
 轉眼	choản ngãn
 轉眼	choản ngẽn
 轉側	choản chăc
@@ -18243,11 +18242,11 @@
 酪酒	lộ chẩu
 酪酥	lộ slô
 杏仁酪	hặng yần lộ
-核桃酪	hật tồ lộ
+核桃酪	hật thồ lộ
 果子酪	kỏ chủ lộ
 果子酪	kỏ chỉ lộ
 杏仁露	hặng yần lộ
-核桃露	hật tồ lộ
+核桃露	hật thồ lộ
 果子露	kỏ chủ lộ
 果子露	kỏ chỉ lộ
 重點	xũng điểm
@@ -18256,7 +18255,7 @@
 重用	xũng yụng
 重臣	xũng xần
 重鎮	xũng chấn
-重聽	xũng tênh
+重聽	xũng thênh
 慎重	sận xũng
 穩重	vẩn xũng
 重視	xũng sị
@@ -18281,7 +18280,7 @@
 重載	xũng chói
 重工業	xũng kung niệp
 重金屬	xũng kâm sục
-重頭戲	xũng tầu hí
+重頭戲	xũng thầu hí
 舉重	kử xũng
 舉重若輕	kử xũng yược hênh
 重金	xũng kâm
@@ -18307,7 +18306,7 @@
 重圍	xùng ùy
 重陽	xùng yường
 重演	xùng yiểm
-重見天日	xùng kiến tiên yật
+重見天日	xùng kiến thiên yật
 重修舊好	xùng slâu kậu hổ
 重操舊業	xùng xô kậu niệp
 重整旗鼓	xùng chỉnh khì kổ
@@ -18332,11 +18331,11 @@
 思量	su lường
 思量	si lường
 車載斗量	xe chói đẩu lường
-量體溫	lường tảy vân/lường tể vân
+量體溫	lường thảy vân/lường thể vân
 海水不可用斗量	hỏi sổi bât hỏ yụng đẩu lường
 掂量	điêm lường
 商量	sương lường
-量體重	lường tảy xũng/lường tể xũng
+量體重	lường thảy xũng/lường thể xũng
 量血壓	lường hoát át
 體重	thảy xũng/thể xũng
 數量	số lượng
@@ -18368,7 +18367,7 @@
 鋪保	pố bổ
 藥鋪	yược pố
 十六鋪	sập lục pố
-鋪頭	pố tầu
+鋪頭	pố thầu
 鋪設	pô xiết
 鋪張	pô chương
 牀鋪	xòng pô
@@ -18379,7 +18378,7 @@
 鋪陳	pô xần
 鋪墊	pô điệm
 鋪蓋	pô kói
-鋪天蓋地	pô tiên kói đị
+鋪天蓋地	pô thiên kói đị
 鋪眉苫眼	pô mì siếm ngãn
 鋪張揚厲	pô chương yường lạy/pô chương yường lệ
 鋪錦列繡	pô kẩm liệt slấu
@@ -18387,9 +18386,9 @@
 平鋪直敍	pình pô chịch chự
 鋪牀單	pô xòng đan
 鋪牀	pô xòng
-鋪地毯	pô đị tản
+鋪地毯	pô đị thản
 鋪路	pô lộ
-鋪鐵軌	pô tiết quỷ
+鋪鐵軌	pô thiết quỷ
 一鋪	yât pô
 兩鋪	lưỡng pô
 三鋪	slam pô
@@ -18411,11 +18410,11 @@
 錯彩鏤金	xó xỏi lậu kâm
 雜錯	chạp xó
 錯刀	xó đô
-鞳鏜	tháp tong
-鏜鞳	thong táp
-鏜鏜	thong tong
+鞳鏜	tháp thong
+鏜鞳	thong tháp
+鏜鏜	thong thong
 鏜鑼	thong lò
-小鏜鑼	sliểu tong lò
+小鏜鑼	sliểu thong lò
 鏜孔	thòng hủng
 鏜牀	thòng xòng
 瓦鐺	ngã xanh
@@ -18433,13 +18432,13 @@
 手搖鑽	sẩu yều choán
 鑽戒	choán kái
 鑽孔	choán hủng
-鑽頭	choán tầu
+鑽頭	choán thầu
 鑽研	choan yiền
 鑽仰	choan yưỡng
 鑽營	choan yình
 鑽木取火	choan mục xử phỏ
 鑽冰求酥	choan binh khầu slô
-鑽探	choan tám
+鑽探	choan thám
 鑽入	choan yập
 鑽空子	choan hung chủ
 鑽空子	choan hung chỉ
@@ -18487,7 +18486,7 @@
 長舌	xường siệt
 長夜	xường yẹ
 長河	xường hò
-長途	xường tồ
+長途	xường thồ
 長眠	xường miền
 長治久安	xường chị kẩu on
 長風破浪	xường phung pó lọng
@@ -18512,7 +18511,7 @@
 長空	xường hung
 長年	xường niền
 長篇	xường piên
-長天	xường tiên
+長天	xường thiên
 長征	xường chinh
 長俸	xường phủng
 長遠	xường yoãn
@@ -18581,7 +18580,7 @@
 亭子間	thình chỉ kan
 間隔	kán kách
 間隙	kán khuich
-間斷	kán toãn
+間斷	kán thoãn
 離間	lì kán
 間接	kán chiếp
 挑撥離間	thiêu bột lì kán
@@ -18594,8 +18593,8 @@
 親密無間	xân mật mồ kán
 相間	slương kán
 黑白相間	hăc bạch slương kán
-間替	kán táy/kán tế
-寒暑間替	hòn sử kán táy/hòn sử kán tế
+間替	kán tháy/kán thế
+寒暑間替	hòn sử kán tháy/hòn sử kán thế
 間道	kán độ
 無間道	mồ kán độ
 反間計	phản kán káy/phản kán kế
@@ -18606,7 +18605,7 @@
 阿哥	á ko
 阿膠	o keo
 阿膠	o kao
-阿彌陀佛	o mi tò phật
+阿彌陀佛	o mi thò phật
 阿諛奉承	o yừ phụng sình
 阿附	o phộ
 阿私	o su
@@ -18656,7 +18655,7 @@
 難爲情	nàn ùy xình
 難耐	nàn nọi
 難產	nàn xản
-難題	nàn tày/nàn tề
+難題	nàn thày/nàn thề
 難免	nàn miễn
 難怪	nàn quái
 難得	nàn đăc
@@ -18664,15 +18663,15 @@
 難字	nàn chị
 難兄難弟	nàn hinh nàn đạy/nàn hinh nàn đệ
 排難解紛	pài nàn kải phân
-法網難逃	phát mõng nàn tồ
+法網難逃	phát mõng nàn thồ
 覆水難收	phuc sổi nàn sâu
 難分難解	nàn phân nàn kải
 勉爲其難	miễn ùy khì nàn
 艱難	kan nàn
-進退兩難	chấn tối lưỡng nàn
+進退兩難	chấn thối lưỡng nàn
 難保	nàn bổ
 難看	nàn hón
-難聽	nàn tênh
+難聽	nàn thênh
 難道	nàn độ
 難解難分	nàn kải nàn phân
 難能可貴	nàn nằng hỏ quý
@@ -18716,7 +18715,7 @@
 追悔靡及	chôi phổi mĩ kập
 奢靡	se mì
 靡費	mì pháy/mì phế
-嘈天巴閉	xồ tiên ba báy/xồ tiên ba bế
+嘈天巴閉	xồ thiên ba báy/xồ thiên ba bế
 靡敝	mì bị
 靡廢公物	mì pháy kung mật/mì phế kung mật
 靡爛	mì lạn
@@ -18728,7 +18727,7 @@
 靦臉	thiển liểm
 靦然	thiển yiền
 靦顏借命	thiển ngàn ché mịnh
-有靦面目	yẫu tiển miện mục
+有靦面目	yẫu thiển miện mục
 靦腆	miễn điểm
 緬靦	miễn miễn
 飲馬	yấm mã
@@ -18768,7 +18767,7 @@
 騎牆	khè xường
 騎牆派	khè xường pái
 騎縫蓋章	khè phụng kói chương
-騎摩托	khè mo tóc
+騎摩托	khè mo thóc
 騎單車	khè đan xe
 騎縫章	khè phụng chương
 騎縫印	khè phụng yấn
@@ -18813,7 +18812,7 @@
 嚐鮮	xường sliên
 河鮮	hò sliên
 時鮮	sì sliên
-鮮甜	sliên tiềm
+鮮甜	sliên thiềm
 鮮亮	sliên lượng
 鮮貨	sliên phó
 鮮妍	sliên yiền
@@ -18825,7 +18824,7 @@
 鵠候	hục hậu
 鵠望	hục mọng
 鵠面鳥形	hục miện niễu yình
-齦骨頭	hẩn quât tầu
+齦骨頭	hẩn quât thầu
 齦書	hẩn sư
 齦書本	hẩn sư bổn
 咧嘴	liệt chổi
@@ -18900,7 +18899,7 @@
 屎片波	sỉ piến bo
 拗頸	áo kểnh
 冧把	lâm bả
-花頭鴨	pha tầu áp
+花頭鴨	pha thầu áp
 坐盆	xõ pồn
 沙洲	sa châu
 沙神	sa sần
@@ -18911,7 +18910,7 @@
 嚕便	lô biện
 邊啲	biên đi
 邊笪	biên đát
-喺啲	hảy đi/hể đi
+喺啲	hảy đi
 打啲	đả đi
 唔	m̀
 冇	mỗ
@@ -18941,8 +18940,8 @@
 老孃	lao nênh
 弟弟	đì đỉ
 細屎胐	sláy sỉ phât/slế sỉ phât
-細路仔	sláy lộ chảy/slế lộ chể
-細蚊仔	sláy mân chảy/slế mân chể
+細路仔	sláy lộ chảy/slế lộ chảy
+細蚊仔	sláy mân chảy/slế mân chảy
 細佬	sláy lổ/slế lổ
 阿弟	á đỉ
 出去耍	xoat hứ sả
@@ -18980,7 +18979,7 @@
 孤寒	kô hòn
 心悒	slâm yap
 閉翳	báy áy/bế ế
-捲筒粉	koản tùng phẩn
+捲筒粉	koản thùng phẩn
 扁粉	bẻn phẩn
 圓粉	yoàn phẩn
 素粉	slố phẩn
@@ -18989,7 +18988,7 @@
 流嘢	lầu yẽ
 靚嘢	lếnh yẽ
 論盡	lận chận
-銻仔	thay chảy/thê chể
+銻仔	thay chảy
 糾正	đẩu chính
 黃䘆	vòng hoản
 地龍	đị lùng
@@ -19015,14 +19014,14 @@
 老友	lỗ yẫu
 風唿	phung phet
 夠派	kấu pai
-油脂仔	yầu chi chảy/yầu chi chể
+油脂仔	yầu chi chảy
 油脂女	yầu chi nử
-柔姿仔	yầu chi chảy/yầu chi chể
+柔姿仔	yầu chi chảy
 柔姿女	yầu chi nử
 油脂裝	yầu chi chong
 柔姿裝	yầu chi chong
 三腳雞	slam kước kay/slam kước kê
-三馬仔	slam mã chảy/slam mã chể
+三馬仔	slam mã chảy
 油脂車	yầu chi xe
 油脂的	yầu chi đich
 柔姿車	yầu chi xe
@@ -19043,7 +19042,7 @@
 帶協	đái hiếp
 華山	vạ san
 般若	bo yẽ
-創痛	xóng túng
+創痛	xóng thúng
 人質	yần chât
 創傷	xóng sương
 并州	binh châu
@@ -19061,7 +19060,7 @@
 佮份	kấp phận
 佮手	kấp sẩu
 佮檔	kấp đóng
-佮計	kấp káy/kấp kế
+佮計	kấp káy
 好佮	hổ kấp
 佮口	kấp hẩu
 儆惜	kệnh slếc
@@ -19113,7 +19112,7 @@
 溜雞	liêu kay/liêu kê
 馬嘟嘚	mã đô đăc
 螞𧊅	ma quải
-盲頭雞	mành tầu kay/mành tầu kê
+盲頭雞	mành thầu kay/mành thầu kê
 牛骨仔	ngầu quât chảy/ngầu quât chể
 木碌	mục luc
 曬腩	sái nãm
@@ -19129,7 +19128,7 @@
 要唔然	yếu m̀ yiền
 奇離柺	khè lè quải
 差火	xa phỏ
-底挺	đảy tỉnh/để tỉnh
+底挺	đảy thỉnh/để thỉnh
 麻疤	mà bè
 蠄蟝	khầm khừ
 蠄蟝	khầm khuè
@@ -19189,7 +19188,7 @@
 㗂㗂	slằng slằng
 嫋嫋	nèo nèo
 軟嫋嫋	yoãn nèo nèo
-豚豚	thần tần
+豚豚	thần thần
 臑臑	no no
 蜢躿	mểnh khểnh
 蜢躿	măng khăng
@@ -19252,7 +19251,7 @@
 矮𦛠𦛠	ảy net net/ể net net
 高㗂㗂	kô slằng slằng
 高嫋嫋	kô nèo nèo
-肥豚豚	phì tần tần
+肥豚豚	phì thần thần
 肥臑臑	phì no no
 瘦蜢躿	sấu mểnh khểnh
 瘦蜢躿	sấu măng khăng
