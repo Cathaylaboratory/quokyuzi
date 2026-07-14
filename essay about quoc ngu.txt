@@ -1,0 +1,268 @@
+This is the essay of Cantonese Quóc Ngữ Țụ̆.
+Alphabet of Quoc Ngu
+character	English name	Cantonese Name	pronunciation
+a A, pronunciation: a, IPA: [a], source: common latin letters, long vowel.
+au AU, pronunciation: ou, IPA: [ɔu], source: Vietnamese chữ quốc ngữ, Taiwanese POJ. It is pronounced as [ou] in Hong Kong and Canton city accent. It is pronounced as [au] in Hoisan accent. "au" is remained in some accents such as ŧân-vội, đẩu-san-hư and Ǹg-Phá accent.
+â Â, pronunciation: â, IPA: [ɐ], source: Vietnamese chữ quốc ngữ, this letter is pronounced as [i] in Hoisanese, short vowel.
+ây ÂY, pronunciation: ây, IPA: [ɐi], source: Vietnamese Chữ Quốc Ngữ. "ây" is used to representing sounds and used in pure cantonese words, or words without proper "ê" origin in Sino-cantonese words.
+ă Ă,	pronunciation: â, IPA: [ɐ] source: Vietnamese chữ quốc ngữ, this letter is pronounced as [a] or [u] in Hoisanese, short vowel
+b B, pronunciation: bơ, IPA: [p] [ɓ] [b], source: Vietnamese chữ quốc ngữ, English, jyutping, this letter is pronounced as [p] in Hong Kong and Hoisan cantonese, it is still pronounced as [ɓ] in Ǹg-Phá dialect same as Vietnamese. It is pronounced as [b] in English.
+c C, pronunciation: cơ, IPA: [k], source: Vietnamese Chữ Quốc Ngữ, latin languages, C is pronounced as [k] before a, o, u, and their variants. It is sometimes pronounced as [s] or [ʦʰ] in some loanwords,
+ch CH, pronunciation: chơ, IPA: [ʧ] [ʨ], source: Vietnamese Chữ Quốc Ngữ, it have different used at the end of word, same as "c" or "k", such as "ach" "ich" and "êch".
+d D, pronunciation: dơ, IPA: [j] [ʝ] [d], source: Vietnamese Chữ Quốc Ngữ, it is pronounced as [j] in Hong Kong accent, or [ʝ] in Suận-Đăc accent, it is pronounced as [d] in some loanwords.
+đ Đ, pronunciation: đơ, IPA: [t] [ɗ], source: Vietnamese Chữ Quốc Ngữ, this letter is pronounced as [t] in Hong Kong and Hoisan cantonese, it is still pronounced as [ɗ] in Ǹg-Phá dialect same as Vietnamese.
+e E, pronunciation: e, IPA: [ɛ], source: Vietnamese Chữ Quốc Ngữ, common latin letters, it has different pronunciation in English or french loanwords. long vowel.
+ê Ê, pronunciation: ây, IPA: [ɐi], source: Vietnamese Chữ Quốc Ngữ, it is pronounced as "ây" in most of Cantonese, however it should have a origin of sino-cantonese word, long vowel.
+f F, pronunciation: /, IPA: [f], source: common latin letters, f only applied for loanwords and representing pronunciation.
+g G, pronunciation: /, IPA: [ɡ][dʒ][ʒ], source: common latin letters, g itself is nly applied for loanwords.
+h H, pronunciation: ha, IPA: [h], source: Vietnamese chữ quốc ngữ, English, jyutping.
+i I, pronunciation: i, IPA: [i], source: Vietnamese chữ quốc ngữ, common latin letters, jyutping, it may have different pronunciation in loanwords. short vowel.
+iê IÊ, pronunciation: ie, IPA: [iɜ] [i], source: Vietnamese chữ quốc ngữ, it is mostly pronounced as [i] in Canton city and Hong Kong cantonese, however it has an origin of dyphthong. long vowel.
+j J, pronunciation:/, IPA: [dʒ] [j] [ʒ], source: common latin letters. j only is applied for loanwords. In French loanwords it is pronounced as [ʒ]. In English loanwords it is pronounced as [dʒ]. In Germany and Polish loanwords it is pronounced as [j]. In Taiwanese loanwords it is pronounced as [d͡ʑ].
+k K, pronunciation: ka, IPA: [k], source: Vietnamese chữ quốc ngữ, common latin letters, it is pronounced as [kʰ] in English loanwords.
+kh KH, pronunciation: kha, IPA: [kʰ], source: Vietnamese chữ quốc ngữ, Taiwanese POJ.
+l L, pronunciation: lơ, IPA: [l], source: Vietnamese chữ quốc ngữ, common latin letters.
+m M, pronunciation: mơ, IPA: [m], source: Vietnamese chữ quốc ngữ, common latin letters.
+n N, pronunciation: nơ, IPA: [n], source: Vietnamese chữ quốc ngữ, common latin letters. "n" as a front consonant is often pronounced as "l" in Hong Kong accent.
+ng NG, pronunciation: ngơ, IPA: [ŋ], source: Vietnamese chữ quốc ngữ, Taiwanese POJ, English.
+nh NH, pronunciation: nhơ, IPA: [ȵ] [ŋ], source: Vietnamese chữ quốc ngữ. "nh" is mostly pronounced as [j] in Canton city and Hong Kong accent. "nh" is mostly pronounced as [ŋ] in Hoisan accent. It have different used at the end of word, same as "ng", such as "anh" "inh" and "ênh".
+o O, pronunciation: o, IPA: [ɔ], source: Vietnamese chữ quốc ngữ, Teochew PUJ, English. It may have different pronunciation in loanwords. Long vowel.
+ô Ô, pronunciation: ô, IPA: [ou] [ɔu] [u], source: Vietnamese chữ quốc ngữ. "ôn" and "ôt" is pronounced as "un" and "ut" in Hoisanese. However it can be pronounced as "ư" "uâ" "â" in Hong Kong and Canton city accent
+ơ Ơ, pronunciation: ơ, IPA: [ə], source: Vietnamese chữ quốc ngữ.
+ơi ƠI, pronunciation: ơ, IPA: [ei] [əi], source: Vietnamese chữ quốc ngữ. "ơi" is used to representing sounds and used in pure cantonese words, or words without proper "y" origin in Sino-cantonese words.
+p P, pronunciation: pơ, IPA: [pʰ], source: English, jyutping.
+ph PH, pronunciation: phơ, IPA: [f], source: Vietnamese chữ quốc ngữ, English, French.
+q Q, pronunciation: qui, IPA: [kʷ], source: Vietnamese chữ quốc ngữ.
+r R, pronunciation: rơ, IPA: [ɹ], source: Vietnamese chữ quốc ngữ, common latin letters, English. r only is applied for loanwords.
+s S, pronunciation: sơ, IPA: [s] [ɕ], source: Vietnamese chữ quốc ngữ, common latin letters, English. s is mostly pronounced as [s] in modern day Canton city, Hong Kong, and Hoisanese accent. However it has a origin of [ʃ] [ɕ].
+ş Ş, pronunciation: sơ, IPA: [ʃ] [ɕ], source: Romanian. It is only applied for representing the sound in specific dialect or loanwords. As most of Cantonese accents don't differ [ʃ] or [ɕ] with [s] anymore.
+sh SH, pronunciation: sơ, IPA: [ʃ], source: English. It appears in English loanwords.
+t T, pronunciation: tơ, IPA: [t], source: Vietnamese chữ quốc ngữ, common latin letters, Taiwanese POJ. It may be pronounced as [tʰ] in English loanwords.
+th TH, pronunciation: thơ, IPA: [tʰ], source: Vietnamese chữ quốc ngữ, Taiwanese POJ. It may be pronounced as [θ] in English loanwords.
+ŧ Ŧ, pronunciation: ŧơ, IPA: [θ] [ɬ], source: Sami language. It is pronounced as [ɬ] in Hoisanese. It is pronounced as [s] in Canton city accent. It has a origin of [θ].
+ț Ț, pronunciation: țơ, IPA: [ʦ], source: Romanian. It is not differed with "ch" anymore in Hong Kong accent. It is pronounced as [t] in Hoisanese.
+tx TX, pronunciation: txơ, IPA: [ʦʰ], source: local Cantonese transcript in Vietnam. It is not differed with "x" anymore in Hong Kong accent. It is pronounced as [tʰ] in Hoisanese.
+tr TR, pronunciation: /, IPA: [ʧ] [ʧʰ] [ʨ] [ʨʰ], source: Vietnamese chữ quốc ngữ. It is used in proper nouns of Sino-cantonese words with an origin of "tri知" or "trong莊" groups of consonant. "tr" is pronounced as "ch" in the țiêm, đẩu, khóng, and hạ tones, and "x" at xầm, and ngõng tones. "tr" also appears in loanwords.
+u U, pronunciation: u, IPA: [u], source: Vietnamese chữ quốc ngữ, common latin letters. It may have different pronunciation in English loanwords. In case of "uc", it is a short vowel. In case of "ut" at Hong Kong and Canton city accent, it is a long vowel.
+uâ Uâ, pronunciation: uâ, IPA: [ɵ], source: Vietnamese chữ quốc ngữ. It is mostly pronounced as [ɵ] in Hong Kong and Canton city dialect. In Hong Kong and Cantonese city accent, some "â" vowels accidently changed to "uâ". It is pronounced as [u] in Hoisanese. "uâ" should has a origin of [uə] and it is still sometimes pronounced a dyphthong in Saigon accent cantonese. Short vowel.
+ư Ư, pronunciation: ư, IPA: [y], source: Romanisation of Cantonese invented by Vietnamese. "ư" may evolve to "ui" vowel in Cantonese and Hoisanese accent when "ư" is behind "c" "kh" "h" "ng" "l" "n" "ț" "tx" "ŧ" and "x" evolved from "tr" consonant in Sino-cantonese words. Short vowel.
+uyê UYÊ, pronunciation: ư, IPA: [y], source: Vietnamese chữ quốc ngữ. It only appear before "t" or "n". It is pronounced as [u] in Hoisanese. Long vowel.
+ươ ƯƠ, pronunciation: ươ, IPA: [œ], source: Vietnamese chữ quốc ngữ. It is pronounced as [iɛ] in Hoisan accent. It has an origin of "io" in Cantonese.
+ưa ƯA, pronunciation: ươ, IPA: [œ], source: Vietnamese chữ quốc ngữ. It appears when there is no any other consonant behind the [œ] vowel.
+ŭ Ŭ, pronunciation: ŭ, IPA: [ɿ], source: Romanisation of Suchow Wu, The McCune–Reischauer Romanisation of Korean. It is pronounced as [i] in Hong Kong accent. It is mostly pronounced as [u] in Hoisan accent. It is pronounced as [y] in Suận-Đăc accent. It is remained in Nàm-Nình accent.
+ui UI, pronunciation: ui, IPA: [ɵy] [ui], source: Vietnamese chữ quốc ngữ, Taiwanese POJ. It is pronounced as [ui] in Hoisanese. It is pronounced as [ɵy] in Hong Kong and Canton city accent.
+uo UO, pronunciation: uo, IPA: [uɔ], source: Vietnamese chữ quốc ngữ.  It is pronounced as [uɔ] in Hoisanese. It is pronounced as [y] in front of "n" and "t" in Hong Kong and Canton city accent.
+ôi ÔI, pronunciation: ui, IPA: [ui], source: Vietnamese chữ quốc ngữ. It is pronounced as [ui] in Cantonese.
+v V, pronunciation: vơ, IPA: [ʋ] [w] [v], source: Vietnamese chữ quốc ngữ, English, common latin alphabet. It is pronounced as [ʋ] [w] in cantonese. It may be pronounced as [v] or [f] in loanwords.
+w W, pronunciation:/, IPA: [w] [v], source: English, western European alphabet. It only appear in loanwords such as English, Germany, French or Polish.
+x X, pronunciation: xơ, IPA: [ʧʰ] [ʨʰ], source: Spelling of Cantonese loanwords in Vietnamese, and specific Hà Tĩnh, Nghệ An, and Thanh Hóa Vietnamese accent. It also appear in loanwords.
+y Y, pronunciation: [ei] [ɪi] [i] [j] [ʝ], source: Vietnamese chữ quốc ngữ. It is a vowel after a consonant. "y" have variants from single vowel [i] to a dyphthong [ei] [ɪi] in different accent. "y" is pronounced same as "di" when "y" appears alone. "y" functions as same as the consonant "d" when it appears at "țiêm", "đẩu", and "khóng" tone because its origin of [ʔ] consonant at the front of the syllable in đam-châu accent.
+z Z, pronunciation:/, IPA: [z], source: English, French, common latin alphabet. it only appear in loanwords.
+ż Ż, pronunciation:/, IPA: [ʐ], source: Romanisation of Slavic languages. It appears in loanwords in Slavic languages and North Mandarin Chinese.
+þ Þ, pronunciation:/, IPA: [θ], source: Icelandic. It is only applied for representing the sound in specific dialect or loanwords. As in most of Cantonese accent [θ] has already evolved to [s] or [ɬ].
+
+Tones:
+unvoiced flat陰平, tone mark: a, tone value: ˥ / ˥˧, example: 分phân
+unvoiced rising陰上, tone mark: ả, tone value: ˧˥, example: 粉phẩn
+unvoiced falling陰去, tone mark: á, tone value: ˧, example: 瞓phấn
+voiced flat陽平, tone mark: à, tone value: ˩ / ˨˩, example: 焚phần
+voiced rising陽上, tone mark: ã, tone value: ˩˧ / ˨˧, example: 奮phẫn
+voiced entering陽去, tone mark: ạ, tone value: ˨, example: 份phận
+high unvoiced entering高陰入, tone mark: a, tone value: ˥, example: 忽phât
+low unvoiced entering低陰入, tone mark: á, tone value: ˧, example: 發phát
+high voiced entering高陽入, tone mark: ả/ã, tone value: ˧˥, example: 甴țảt
+low voiced entering低陽入, tone mark: ạ, tone value: ˨, example: 佛phật
+
+Tone marks:
+tone mark sample: a, name: țiêm
+tone mark sample: ả, name: đẩu
+tone mark sample: á, name: khóng
+tone mark sample: à, name: xầm
+tone mark sample: ã, name: ngõng
+tone mark sample: ạ, name: hạ
+
+
+Mandarin Chinese Pinyin transcript
+In the Cantonese Quoc Ngu system, the loanwords such as name of place, person, or brand in Mandarin Chinese will no longer be transcripted to be Chinese Character at first then pronounced in Cantonese, but directly be transcripted according its pronunciation.
+And the transcript will be affected by the accent of the Mandarin Chinese, such as Peking accent, and Szechuan accent.
+A hyphen or space should be inserted between each syllable.
+Consonant:
+Mandarin Pinyin: b, Quoc Ngu: b
+Mandarin Pinyin: p, Quoc Ngu: p
+Mandarin Pinyin: m, Quoc Ngu: m
+Mandarin Pinyin: f, Quoc Ngu: f
+Mandarin Pinyin: d, Quoc Ngu: t
+Mandarin Pinyin: t, Quoc Ngu: th
+Mandarin Pinyin: n, Quoc Ngu: n
+Mandarin Pinyin: l, Quoc Ngu: l
+Mandarin Pinyin: g, Quoc Ngu: k
+Mandarin Pinyin: k, Quoc Ngu: kh
+Mandarin Pinyin: h, Quoc Ngu: h
+Mandarin Pinyin: j, Quoc Ngu: chi
+Mandarin Pinyin: q, Quoc Ngu: xi
+Mandarin Pinyin: x, Quoc Ngu: si
+Mandarin Pinyin: zh, Quoc Ngu: ch
+Mandarin Pinyin: ch, Quoc Ngu: x
+Mandarin Pinyin: sh, Quoc Ngu: ș
+Mandarin Pinyin: r, Quoc Ngu: ż/z
+Mandarin Pinyin: z, Quoc Ngu: ț
+Mandarin Pinyin: c, Quoc Ngu: tx
+Mandarin Pinyin: s, Quoc Ngu: s
+Mandarin Pinyin: y, Quoc Ngu: d
+Mandarin Pinyin: w, Quoc Ngu: v/u/o
+Vowels:
+Mandarin Pinyin: zi/ci/si/zhi/chi/shi/ri, Quoc Ngu: ŭ
+Mandarin Pinyin: i, Quoc Ngu: i/iơi
+Mandarin Pinyin: u, Quoc Ngu: u
+Mandarin Pinyin: ü/yu, Quoc Ngu:ư/uyo/ưi
+Mandarin Pinyin: a, Quoc Ngu: a
+Mandarin Pinyin: ia, Quoc Ngu: ia
+Mandarin Pinyin: ua, Quoc Ngu: oa
+Mandarin Pinyin: o, Quoc Ngu: o/ơ
+Mandarin Pinyin: uo, Quoc Ngu: uo/ue
+Mandarin Pinyin: e, Quoc Ngu: ơ/e/o
+Mandarin Pinyin: ie, Quoc Ngu: ie/iai
+Mandarin Pinyin: üe, Quoc Ngu: uye
+Mandarin Pinyin: er, Quoc Ngu: ơ-r, i-r, u-r, ư-r, a-r, ia-r, oa-r, uya-r
+Mandarin Pinyin: ai, Quoc Ngu: ai
+Mandarin Pinyin: uai, Quoc Ngu: oai
+Mandarin Pinyin: ei, Quoc Ngu: ơi
+Mandarin Pinyin: uei, Quoc Ngu: uy
+Mandarin Pinyin: ao, Quoc Ngu: ao
+Mandarin Pinyin: iao, Quoc Ngu: iao/io
+Mandarin Pinyin: ou, Quoc Ngu: ô/âu
+Mandarin Pinyin: iu, Quoc Ngu: iu/iâu
+Mandarin Pinyin: an, Quoc Ngu: an
+Mandarin Pinyin: ian, Quoc Ngu: ian
+Mandarin Pinyin: uan, Quoc Ngu: oan
+Mandarin Pinyin: üan, Quoc Ngu: uan
+Mandarin Pinyin: en, Quoc Ngu: ơn
+Mandarin Pinyin: uen, Quoc Ngu: uăn
+Mandarin Pinyin: in, Quoc Ngu: in
+Mandarin Pinyin: ün, Quoc Ngu: ưn
+Mandarin Pinyin: ang, Quoc Ngu: ang
+Mandarin Pinyin: iang, Quoc Ngu: iang
+Mandarin Pinyin: uang, Quoc Ngu: oang
+Mandarin Pinyin: eng, Quoc Ngu: ơng
+Mandarin Pinyin: ing, Quoc Ngu: inh/iêng/uynh
+Mandarin Pinyin: ueng, Quoc Ngu: uăng/uong
+Mandarin Pinyin: ong, Quoc Ngu: ung
+Mandarin Pinyin: iong, Quoc Ngu: iung
+Tones:
+North Mandarin Pinyin: ā, Quoc Ngu: a
+North Mandarin Pinyin: á, Quoc Ngu: ả
+North Mandarin Pinyin: ǎ, Quoc Ngu: ã
+North Mandarin Pinyin: à, Quoc Ngu: à
+Southwest Mandarin: unvoiced-flat陰平, Quoc Ngu:á
+Southwest Mandarin: voiced-flat陽平, Quoc Ngu:à
+Southwest Mandarin: rising陰上, Quoc Ngu:a
+Southwest Mandarin: falling去聲, Quoc Ngu:ã
+
+Japanese transcript
+In the Cantonese Quoc Ngu system, the loanwords such as name of place, person, or brand in Japanese will no longer be transcripted to be Chinese Character at first then pronounced in Cantonese, but directly be transcripted according its pronunciation.
+Please watch out in Japanese, "b d g j z" are voiced consonants.
+A hyphen or space should be inserted between each syllable.
+Vowels
+Romaji: k, Quoc Ngu: k
+Romaji: g, Quoc Ngu: g
+Romaji: s, Quoc Ngu: s
+Romaji: sh, Quoc Ngu: ș
+Romaji: z, Quoc Ngu: dz
+Romaji: j, Quoc Ngu: j
+Romaji: t, Quoc Ngu: t
+Romaji: ts, Quoc Ngu: ț
+Romaji: ch, Quoc Ngu: ch
+Romaji: d, Quoc Ngu: đ
+Romaji: n, Quoc Ngu: n
+Romaji: h, Quoc Ngu: h
+Romaji: p, Quoc Ngu: p
+Romaji: f, Quoc Ngu: f
+Romaji: b, Quoc Ngu: b
+Romaji: m, Quoc Ngu: m
+Romaji: y, Quoc Ngu: d
+Romaji: r, Quoc Ngu: l
+Romaji: w, Quoc Ngu: o-, u-
+Vowels
+Romaji: a, Quoc Ngu: a
+Romaji: i, Quoc Ngu: i
+Romaji: u, Quoc Ngu: ươ
+Romaji: e, Quoc Ngu: e
+Romaji: o, Quoc Ngu: o
+Romaji: ya, Quoc Ngu: ia
+Romaji: yu, Quoc Ngu: iu
+Romaji: yo, Quoc Ngu: io
+Romaji: wa, Quoc Ngu: oa
+Romaji: we, Quoc Ngu: oe
+Romaji: wo, Quoc Ngu: uo
+Romaji: wi, Quoc Ngu: ôi
+Romaji: ei, Quoc Ngu: e
+Romaji: ou, Quoc Ngu: o
+Romaji: you, Quoc Ngu: io
+Romaji: ai, Quoc Ngu: ai
+Romaji: an, Quoc Ngu: an
+Romaji: en, Quoc Ngu: en
+Romaji: in, Quoc Ngu: in
+Romaji: un, Quoc Ngu: un
+Romaji: on, Quoc Ngu: on
+Romaji: pp, Quoc Ngu: p-p
+Romaji: tt, Quoc Ngu: t-t
+Romaji: kk, Quoc Ngu: k-k
+Tones
+Hightone, Quoc Ngu: a
+Lowtone, Quoc Ngu: á
+
+Korean transcript
+In the Cantonese Quoc Ngu system, the loanwords such as name of place, person, or brand in Korean will no longer be transcripted to be Chinese Character at first then pronounced in Cantonese, but directly be transcripted according its pronunciation.
+In todays Seoul accent, syllables with ㅅ ㅊ ㅋ ㅌ ㅍ ㅎ initials will deserve a higher tone.
+A hyphen or space should be inserted between each syllable.
+Initials:
+Hangul: ㄱ, Quoc Ngu: khá
+Hangul: ㄲ, Quoc Ngu: ká
+Hangul: ㄴ, Quoc Ngu: n
+Hangul: ㄷ, Quoc Ngu: thá
+Hangul: ㄸ, Quoc Ngu: tá
+Hangul: ㄹ, Quoc Ngu: l
+Hangul: ㅁ, Quoc Ngu: m 
+Hangul: ㅂ, Quoc Ngu: pá
+Hangul: ㅃ, Quoc Ngu: bá
+Hangul: ㅅ, Quoc Ngu: sa
+Hangul: ㅆ, Quoc Ngu: sá
+Hangul: ㅇ, Quoc Ngu: /
+Hangul: ㅈ, Quoc Ngu: xá
+Hangul: ㅉ, Quoc Ngu: chá
+Hangul: ㅊ, Quoc Ngu: xa
+Hangul: ㅋ, Quoc Ngu: kha
+Hangul: ㅌ, Quoc Ngu: tha
+Hangul: ㅍ, Quoc Ngu: pa
+Hangul: ㅎ, Quoc Ngu: ha
+Middles:
+Hangul: ㅏ, Quoc Ngu: a
+Hangul: ㅐ, Quoc Ngu: e
+Hangul: ㅑ, Quoc Ngu: ia
+Hangul: ㅒ, Quoc Ngu: ie
+Hangul: ㅓ, Quoc Ngu: o
+Hangul: ㅔ, Quoc Ngu: e
+Hangul: ㅕ, Quoc Ngu: io
+Hangul: ㅖ, Quoc Ngu: ie
+Hangul: ㅗ, Quoc Ngu: ô
+Hangul: ㅘ, Quoc Ngu: oa
+Hangul: ㅙ, Quoc Ngu: oe
+Hangul: ㅚ, Quoc Ngu: ôi
+Hangul: ㅛ, Quoc Ngu: iô
+Hangul: ㅜ, Quoc Ngu: u
+Hangul: ㅝ, Quoc Ngu: uo
+Hangul: ㅞ, Quoc Ngu: oe
+Hangul: ㅟ, Quoc Ngu: ôi
+Hangul: ㅠ, Quoc Ngu: iu
+Hangul: ㅡ, Quoc Ngu: ŭ
+Hangul: ㅢ, Quoc Ngu: ơi
+Hangul: ㅣ, Quoc Ngu: i
+Ends:
+Hangul: ㄱ, Quoc Ngu: k
+Hangul: ㄴ, Quoc Ngu: n
+Hangul: ㄷ, Quoc Ngu: t
+Hangul: ㄹ, Quoc Ngu: l
+Hangul: ㅁ, Quoc Ngu: m 
+Hangul: ㅂ, Quoc Ngu: p
+Hangul: ㅇ, Quoc Ngu: ng
+
