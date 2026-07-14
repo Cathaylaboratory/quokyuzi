@@ -1,6 +1,5 @@
 This is the essay of Cantonese Quóc Ngữ Țụ̆.
 Alphabet of Quoc Ngu
-character	English name	Cantonese Name	pronunciation
 a A, pronunciation: a, IPA: [a], source: common latin letters, long vowel.
 au AU, pronunciation: ou, IPA: [ɔu], source: Vietnamese chữ quốc ngữ, Taiwanese POJ. It is pronounced as [ou] in Hong Kong and Canton city accent. It is pronounced as [au] in Hoisan accent. "au" is remained in some accents such as ŧân-vội, đẩu-san-hư and Ǹg-Phá accent.
 â Â, pronunciation: â, IPA: [ɐ], source: Vietnamese chữ quốc ngữ, this letter is pronounced as [i] in Hoisanese, short vowel.
