@@ -265,3 +265,89 @@ Hangul: ㅁ, Quoc Ngu: m
 Hangul: ㅂ, Quoc Ngu: p
 Hangul: ㅇ, Quoc Ngu: ng
 
+Russian transcript
+In the Cantonese Quoc Ngu system, the loanwords such as name of place, person, or brand in Russian will no longer be transcripted to be Mandarin Chinese at first then pronounced in Cantonese, but directly be transcripted according its russian pronunciation.
+consonants
+russian: б, Quoc Ngu: b
+russian: в, Quoc Ngu: v
+russian: г, Quoc Ngu: g
+russian: д, Quoc Ngu: đ
+russian: ж, Quoc Ngu: ż
+russian: з, Quoc Ngu: z
+russian: к, Quoc Ngu: k
+russian: л, Quoc Ngu: l
+russian: м, Quoc Ngu: m
+russian: н, Quoc Ngu: n
+russian: п, Quoc Ngu: p
+russian: р, Quoc Ngu: r
+russian: с, Quoc Ngu: s
+russian: т, Quoc Ngu: t
+russian: ф, Quoc Ngu: f
+russian: х, Quoc Ngu: kh
+russian: ц, Quoc Ngu: ț
+russian: ч, Quoc Ngu: ch
+russian: ш, Quoc Ngu: ș
+russian: щ, Quoc Ngu: ș
+vowels:
+russian: а, Quoc Ngu: a
+russian: е, Quoc Ngu: ie/e
+russian: ё, Quoc Ngu: io
+russian: и, Quoc Ngu: i
+russian: о, Quoc Ngu: o/ă
+russian: у, Quoc Ngu: u
+russian: ы, Quoc Ngu: y
+russian: э, Quoc Ngu: e
+russian: ю, Quoc Ngu: iu
+russian: я, Quoc Ngu: ia
+russian: ай, Quoc Ngu: ai
+russian: ей, Quoc Ngu: ei
+russian: ой, Quoc Ngu: oi
+russian: ый, Quoc Ngu: yi
+russian: ъ, Quoc Ngu:
+russian: ь, Quoc Ngu:
+
+tones: the stress tone in russian of a word will be marked "á" in Cantonese.
+
+ukrainian transcript
+In the Cantonese Quoc Ngu system, the loanwords such as name of place, person, or brand in ukrainian will no longer be transcripted to be Mandarin Chinese at first then pronounced in Cantonese, but directly be transcripted according its ukrainian pronunciation.
+consonants
+ukrainian: б, Quoc Ngu: b
+ukrainian: в, Quoc Ngu: v
+ukrainian: г, Quoc Ngu: g
+ukrainian: д, Quoc Ngu: đ
+ukrainian: ж, Quoc Ngu: ż
+ukrainian: з, Quoc Ngu: z
+ukrainian: к, Quoc Ngu: k
+ukrainian: л, Quoc Ngu: l
+ukrainian: м, Quoc Ngu: m
+ukrainian: н, Quoc Ngu: n
+ukrainian: п, Quoc Ngu: p
+ukrainian: р, Quoc Ngu: r
+ukrainian: с, Quoc Ngu: s
+ukrainian: т, Quoc Ngu: t
+ukrainian: ф, Quoc Ngu: f
+ukrainian: х, Quoc Ngu: kh
+ukrainian: ц, Quoc Ngu: ț
+ukrainian: ч, Quoc Ngu: ch
+ukrainian: ш, Quoc Ngu: ș
+ukrainian: щ, Quoc Ngu: ș
+vowels:
+ukrainian: а, Quoc Ngu: a
+ukrainian: е, Quoc Ngu: ie/e
+ukrainian: ё, Quoc Ngu: io
+ukrainian: и, Quoc Ngu: i
+ukrainian: о, Quoc Ngu: o/ă
+ukrainian: у, Quoc Ngu: u
+ukrainian: ы, Quoc Ngu: y
+ukrainian: э, Quoc Ngu: e
+ukrainian: ю, Quoc Ngu: iu
+ukrainian: я, Quoc Ngu: ia
+ukrainian: ай, Quoc Ngu: ai
+ukrainian: ей, Quoc Ngu: ei
+ukrainian: ой, Quoc Ngu: oi
+ukrainian: ый, Quoc Ngu: yi
+ukrainian: ъ, Quoc Ngu:
+ukrainian: ь, Quoc Ngu:
+
+tones: the stress tone in ukrainian of a word will be marked "á" in Cantonese.
+
