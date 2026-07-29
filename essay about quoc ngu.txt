@@ -433,7 +433,7 @@ Atomic Number	Chemical symbol	Chinese	English	Quóc Ngữ
 71	Lu	鎦、鑥	Lutetium	Luteti
 72	Hf	鉿	Hafnium	Hafni
 73	Ta	鉭	Tantalum	Tantali
-74	W	鎢	Tungsten (來自德文 Wolfram)	Volfram
+74	W	鎢	Tungsten (來自德文 Wolfram)	Vu
 75	Re	錸	Rhenium	Reni
 76	Os	鋨	Osmium	Osmi
 77	Ir	銥	Iridium	Iriđi
