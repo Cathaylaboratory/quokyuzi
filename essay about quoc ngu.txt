@@ -126,7 +126,7 @@ Mandarin Pinyin: er, Quoc Ngu: ơ-r, i-r, u-r, ư-r, a-r, ia-r, oa-r, uya-r
 Mandarin Pinyin: ai, Quoc Ngu: ai
 Mandarin Pinyin: uai, Quoc Ngu: oai
 Mandarin Pinyin: ei, Quoc Ngu: ơi
-Mandarin Pinyin: uei, Quoc Ngu: uy
+Mandarin Pinyin: ui, Quoc Ngu: uy
 Mandarin Pinyin: ao, Quoc Ngu: ao
 Mandarin Pinyin: iao, Quoc Ngu: iao/io
 Mandarin Pinyin: ou, Quoc Ngu: ô/âu
@@ -135,7 +135,7 @@ Mandarin Pinyin: an, Quoc Ngu: an
 Mandarin Pinyin: ian, Quoc Ngu: ian
 Mandarin Pinyin: uan, Quoc Ngu: oan
 Mandarin Pinyin: üan, Quoc Ngu: uan
-Mandarin Pinyin: en, Quoc Ngu: ơn
+Mandarin Pinyin: en, Quoc Ngu: ơn/ên
 Mandarin Pinyin: uen, Quoc Ngu: uăn
 Mandarin Pinyin: in, Quoc Ngu: in
 Mandarin Pinyin: ün, Quoc Ngu: ưn
@@ -194,9 +194,10 @@ Romaji: wa, Quoc Ngu: oa
 Romaji: we, Quoc Ngu: oe
 Romaji: wo, Quoc Ngu: uo
 Romaji: wi, Quoc Ngu: ôi
-Romaji: ei, Quoc Ngu: e
+Romaji: ei, Quoc Ngu: e/ei
 Romaji: ou, Quoc Ngu: o
 Romaji: you, Quoc Ngu: io
+Romaji: yuu, Quoc Ngu: iu
 Romaji: ai, Quoc Ngu: ai
 Romaji: an, Quoc Ngu: an
 Romaji: en, Quoc Ngu: en
@@ -246,14 +247,14 @@ Hangul: ㅖ, Quoc Ngu: ie
 Hangul: ㅗ, Quoc Ngu: ô
 Hangul: ㅘ, Quoc Ngu: oa
 Hangul: ㅙ, Quoc Ngu: oe
-Hangul: ㅚ, Quoc Ngu: ôi
+Hangul: ㅚ, Quoc Ngu: oi
 Hangul: ㅛ, Quoc Ngu: iô
 Hangul: ㅜ, Quoc Ngu: u
 Hangul: ㅝ, Quoc Ngu: uo
 Hangul: ㅞ, Quoc Ngu: oe
 Hangul: ㅟ, Quoc Ngu: ôi
 Hangul: ㅠ, Quoc Ngu: iu
-Hangul: ㅡ, Quoc Ngu: ŭ
+Hangul: ㅡ, Quoc Ngu: ươ
 Hangul: ㅢ, Quoc Ngu: ơi
 Hangul: ㅣ, Quoc Ngu: i
 Ends:
@@ -267,6 +268,7 @@ Hangul: ㅇ, Quoc Ngu: ng
 
 Russian transcript
 In the Cantonese Quoc Ngu system, the loanwords such as name of place, person, or brand in Russian will no longer be transcripted to be Mandarin Chinese at first then pronounced in Cantonese, but directly be transcripted according its russian pronunciation.
+A hyphen or space should be inserted between each syllable.
 consonants
 russian: б, Quoc Ngu: b
 russian: в, Quoc Ngu: v
@@ -303,17 +305,18 @@ russian: ай, Quoc Ngu: ai
 russian: ей, Quoc Ngu: ei
 russian: ой, Quoc Ngu: oi
 russian: ый, Quoc Ngu: yi
-russian: ъ, Quoc Ngu:
+russian: ъ, Quoc Ngu: -
 russian: ь, Quoc Ngu:
-
 tones: the stress tone in russian of a word will be marked "á" in Cantonese.
 
-ukrainian transcript
-In the Cantonese Quoc Ngu system, the loanwords such as name of place, person, or brand in ukrainian will no longer be transcripted to be Mandarin Chinese at first then pronounced in Cantonese, but directly be transcripted according its ukrainian pronunciation.
+Ukrainian transcript
+In the Cantonese Quoc Ngu system, the loanwords such as name of place, person, or brand in Ukrainian will no longer be transcripted to be Mandarin Chinese at first then pronounced in Cantonese, but directly be transcripted according its Ukrainian pronunciation.
+A hyphen or space should be inserted between each syllable.
 consonants
 ukrainian: б, Quoc Ngu: b
 ukrainian: в, Quoc Ngu: v
-ukrainian: г, Quoc Ngu: g
+ukrainian: ґ, Quoc Ngu: g
+ukrainian: г, Quoc Ngu: h
 ukrainian: д, Quoc Ngu: đ
 ukrainian: ж, Quoc Ngu: ż
 ukrainian: з, Quoc Ngu: z
@@ -333,21 +336,145 @@ ukrainian: ш, Quoc Ngu: ș
 ukrainian: щ, Quoc Ngu: ș
 vowels:
 ukrainian: а, Quoc Ngu: a
-ukrainian: е, Quoc Ngu: ie/e
+ukrainian: е, Quoc Ngu: e
 ukrainian: ё, Quoc Ngu: io
-ukrainian: и, Quoc Ngu: i
-ukrainian: о, Quoc Ngu: o/ă
+ukrainian: йо, Quoc Ngu: io
+ukrainian: и, Quoc Ngu: y
+ukrainian: о, Quoc Ngu: o
 ukrainian: у, Quoc Ngu: u
-ukrainian: ы, Quoc Ngu: y
-ukrainian: э, Quoc Ngu: e
+ukrainian: і, Quoc Ngu: y
+ukrainian: э, Quoc Ngu: ie
 ukrainian: ю, Quoc Ngu: iu
 ukrainian: я, Quoc Ngu: ia
 ukrainian: ай, Quoc Ngu: ai
 ukrainian: ей, Quoc Ngu: ei
 ukrainian: ой, Quoc Ngu: oi
-ukrainian: ый, Quoc Ngu: yi
-ukrainian: ъ, Quoc Ngu:
+ukrainian: ий, Quoc Ngu: yi
+ukrainian: їі, Quoc Ngu: di
+ukrainian: ї, Quoc Ngu: di
+ukrainian: ', Quoc Ngu: -
 ukrainian: ь, Quoc Ngu:
-
 tones: the stress tone in ukrainian of a word will be marked "á" in Cantonese.
 
+Chemistry elements
+
+
+Atomic Number	Chemical symbol	Chinese	English	Quóc Ngữ
+1	H	氫	Hydrogen	Hinh(Hinh Hý)
+2	He	氦	Helium	Heli(Họi-hý)
+3	Li	鋰	Lithium	Lithi
+4	Be	鈹	Beryllium	Beri
+5	B	硼	Boron	Pằng/Pàng
+6	C	碳	Carbon	Thán(Thán-ŧố)
+7	N	氮	Nitrogen	đạm(đạm-hý)
+8	O	氧	Oxygen	Dưỡng(Dưỡng hý)
+9	F	氟	Fluorine	Fât(fât-hý)
+10	Ne	氖	Neon	Ne-on
+11	Na	鈉	Sodium (來自拉丁文 Natrium)	Nát
+12	Mg	鎂	Magnesium	*Mỡi
+13	Al	鋁	Aluminium	Alumi/thây/lũi
+14	Si	硅、矽	Silicon	Țịch
+15	P	磷	Phosphorus	Lần/Luần
+16	S	硫	Sulphur	Lừu(Lừu-vòng)
+17	Cl	氯	Chlorine	Lục(Lục-hý)
+18	Ar	氬	Argon	Argon/Á(Á-hý)
+19	K	鉀	Potassium (來自德文 Kalium)	Káp
+20	Ca	鈣	Calcium	Khói
+21	Sc	鈧	Scandium	Scanđi
+22	Ti	鈦	Titanium	Thái/Titan
+23	V	釩	Vanadium	Vanađi
+24	Cr	鉻	Chromium	Khrom
+25	Mn	錳	Manganese	Mãng
+26	Fe	鐵	Iron (來自拉丁文 Ferrum)	Thiết
+27	Co	鈷	Cobalt	Củ/Cobalt
+28	Ni	鎳	Nickel	Nịp
+29	Cu	銅	Copper (來自拉丁文 Cuprum)	Thùng
+30	Zn	鋅	Zinc	Sân
+31	Ga	鎵	Gallium	Gali
+32	Ge	鍺	Germanium	Germani
+33	As	砷	Arsenic	Asen
+34	Se	硒	Selenium	Selen
+35	Br	溴	Bromine	Xấu
+36	Kr	氪	Krypton	Khripton
+37	Rb	銣	Rubidium	Rubiđi
+38	Sr	鍶	Strontium	Stronti
+39	Y	釔	Yttrium	Yttri
+40	Zr	鋯	Zirconium	Zirconi
+41	Nb	鈮	Niobium	Niobi
+42	Mo	鉬	Molybdenum	Molipđen
+43	Tc	鎝、鍀	Technetium	tecnecti
+44	Ru	釕	Ruthenium	Rutheni
+45	Rh	銠	Rhodium	Ro-đi
+46	Pd	鈀	Palladium	Palađi
+47	Ag	銀	Silver (來自拉丁文 Argentum)	Ngần
+48	Cd	鎘	Cadmium	Catmi
+49	In	銦	Indium	Indi
+50	Sn	錫	Tin (來自拉丁文 Stannum)	Ŧiếc
+51	Sb	銻	Antimony (來自拉丁文 Stibium)	Antimon
+52	Te	碲	Tellurium	Telu
+53	I	碘	Iodine	Đỉn
+54	Xe	氙	Xenon	Siên(Siên-hý)
+55	Cs	銫	Caesium	Se-zi
+56	Ba	鋇	Barium	Bari
+57	La	鑭	Lanthanum	Lanthan
+58	Ce	鈰	Cerium	Seri
+59	Pr	鐠	Praseodymium	Preseođimi
+60	Nd	釹	Neodymium	Neođimi
+61	Pm	鉕	Promethium	Promethi
+62	Sm	釤	Samarium	Samari
+63	Eu	銪	Europium	Europi
+64	Gd	釓	Gadolinium	Gađolini
+65	Tb	鋱	Terbium	Terbi
+66	Dy	鏑	Dysprosium	Đisprosi
+67	Ho	鈥	Holmium	Holmi
+68	Er	鉺	Erbium	Erbi
+69	Tm	銩	Thulium	Thu-li
+70	Yb	鐿	Ytterbium	Ytterbi
+71	Lu	鎦、鑥	Lutetium	Luteti
+72	Hf	鉿	Hafnium	Hafni
+73	Ta	鉭	Tantalum	Tantali
+74	W	鎢	Tungsten (來自德文 Wolfram)	Volfram
+75	Re	錸	Rhenium	Reni
+76	Os	鋨	Osmium	Osmi
+77	Ir	銥	Iridium	Iriđi
+78	Pt	鉑	Platinum	Bạch-câm
+79	Au	金	Gold (來自拉丁文 Aurum)	Câm
+80	Hg	汞、銾	Mercury (來自拉丁文 Hydragyrum)	Sủi-ngần
+81	Tl	鉈	Thallium	Thali
+82	Pb	鉛	Lead (來自拉丁文 Plumbum)	Duòn/Viền/Dừn/Dìn
+83	Bi	鉍	Bismuth	Bismut
+84	Po	釙	Polonium	Poloni
+85	At	砹、砈	Astatine	Astatin
+86	Rn	氡	Radon	Rađon
+87	Fr	鈁、鍅	Francium	Fransi
+88	Ra	鐳	Radium	Rađi
+89	Ac	錒	Actinium	Aktini
+90	Th	釷	Thorium	Thori
+91	Pa	鏷	Protactinium	Protactini
+92	U	鈾	Uranium	Urani
+93	Np	錼、鎿	Neptunium	Neptuni
+94	Pu	鈽、鐪、鈈	Plutonium	Plutoni
+95	Am	鋂、鎇	Americium	Amerisi
+96	Cm	鋦	Curium	Curi
+97	Bk	鉳、錇	Berkelium	Berkeli
+98	Cf	鉲、鐦	Californium	Californi
+99	Es	鑀、鎄	Einsteinium	Einsteini
+100	Fm	鐨	Fermium	Fermium
+101	Md	鍆	Mendelevium	Mendelevi
+102	No	鍩	Nobelium	Nobelium
+103	Lr	鐒	Lawrencium	Lawrencium
+104	Rf	鑪	Rutherfordium	Rutherfordi
+105	Db	𨧀	Dubnium	Dubnium
+106	Sg	𨭎	Seaborgium	Seaborgi
+107	Bh	𨨏	Bohrium	Bohrium
+108	Hs	𨭆	Hassium	Hassium
+109	Mt	䥑	Meitnerium	Meitneri
+110	Ds	鐽	Darmstadtium	Darmstadti
+111	Rg	錀	Roentgenium	Roentgeni
+112	Cn	鎶	Copernicium	Copernici
+113	Nh	鉨	Nihonium	Nihoni
+114	Fl	鈇	Flerovium	Flerovi
+115	Mc	鏌	Moscovium	Moscovi
+116	Lv	鉝	Livermorium	Livermori
+117	Ts		Tennessine	Tennessin
+118	Og		Oganesson	Oganeson
