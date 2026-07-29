@@ -1,0 +1,132 @@
+Chemical elements in Cantonese
+
+This is the name of every Chemical Elements in Cantonese Quóc Ngữ
+
+Doctorine: Any element which have its Chinese Translation after 1937 will not longer use Chinese word to represent it Cantonese Name. Such as Technetium and Americium.
+Those Elements which discovered at accient time will remain the Cantonese Words. Such as Thùng for Copper and Thiết for Iron.
+Those Elements which is discovered later and translated by Wu Chemist will be remained, if the pronunciation in Cantonese is reasonable. Such as Dưỡng for Oxygen and Hinh for Hydrogen.
+If a Chinese name of Element have already translated into Cantonese and wide spread, this sino-cantonese word will be accepted. Such as Khói for Calcium and Káp for Potassium.
+If the pronunciation of Chinese Character in Cantonese is too far away from origin, this Chinese Character will be abolished, such as Antimony and Beryllium.
+If the pronunciation of Chinese Character in Cantonese is causing contradiction, this Chinese Character will be abolished, such as Cadmium and Chromium.
+If an Element has already developed a native Cantonese Name, this name will be accepted, such as Thây for Aluminium and Sủi-Ngần for Mercury.
+If the Chinese Translation for an element is accepted, the spelling in Cantonese will no longer follow the rule of sino-cantonese word. Such as Mỡi for Magnesium and Đỉn for Iodine.
+The Cantonese Translation for those elements will look at its name in Latin, English, Japanese, and Vietnamese.
+Atomic Number	Symbol	Chinese	English	Quóc Ngữ
+1	H	氫	Hydrogen	Hinh(Hinh Hý)
+2	He	氦	Helium	Heli(Họi-hý)
+3	Li	鋰	Lithium	Lithi
+4	Be	鈹	Beryllium	Beri
+5	B	硼	Boron	Pằng/Pàng
+6	C	碳	Carbon	Thán(Thán-ŧố)
+7	N	氮	Nitrogen	đạm(đạm-hý)
+8	O	氧	Oxygen	Dưỡng(Dưỡng hý)
+9	F	氟	Fluorine	Fât(Fât-hý)
+10	Ne	氖	Neon	Ne-on
+11	Na	鈉	Sodium (來自拉丁文 Natrium)	Náp
+12	Mg	鎂	Magnesium	*Mỡi
+13	Al	鋁	Aluminium	Alumi/thây/lũi
+14	Si	硅、矽	Silicon	Țịch
+15	P	磷	Phosphorus	Lần/Luần
+16	S	硫	Sulphur	Lừu(Lừu-vòng)
+17	Cl	氯	Chlorine	Lục(Lục-hý)
+18	Ar	氬	Argon	Argon/Á(Á-hý)
+19	K	鉀	Potassium	Káp
+20	Ca	鈣	Calcium	Khói
+21	Sc	鈧	Scandium	Scanđi
+22	Ti	鈦	Titanium	Thái/Titan
+23	V	釩	Vanadium	Vanađi
+24	Cr	鉻	Chromium	Khrom
+25	Mn	錳	Manganese	Mãng
+26	Fe	鐵	Iron	Thiết
+27	Co	鈷	Cobalt	Củ/Cobalt
+28	Ni	鎳	Nickel	Nịp
+29	Cu	銅	Copper	Thùng
+30	Zn	鋅	Zinc	Sân
+31	Ga	鎵	Gallium	Galli
+32	Ge	鍺	Germanium	Germani
+33	As	砷	Arsenic	Arsen
+34	Se	硒	Selenium	Selen
+35	Br	溴	Bromine	Xấu
+36	Kr	氪	Krypton	Khripton
+37	Rb	銣	Rubidium	Rubiđi
+38	Sr	鍶	Strontium	Stronti
+39	Y	釔	Yttrium	Yttri
+40	Zr	鋯	Zirconium	Zirconi
+41	Nb	鈮	Niobium	Niobi
+42	Mo	鉬	Molybdenum	Molypđen
+43	Tc	鎝、鍀	Technetium	techneti
+44	Ru	釕	Ruthenium	Rutheni
+45	Rh	銠	Rhodium	Ro-đi
+46	Pd	鈀	Palladium	Palađi
+47	Ag	銀	Silver	Ngần
+48	Cd	鎘	Cadmium	Catmi
+49	In	銦	Indium	Inđi
+50	Sn	錫	Tin	Ŧiếc
+51	Sb	銻	Antimony	Antimon
+52	Te	碲	Tellurium	Telu
+53	I	碘	Iodine	Đỉn
+54	Xe	氙	Xenon	Siên(Siên-hý)
+55	Cs	銫	Caesium	Se-zi
+56	Ba	鋇	Barium	Bari
+57	La	鑭	Lanthanum	Lanthan
+58	Ce	鈰	Cerium	Seri
+59	Pr	鐠	Praseodymium	Preseođimi
+60	Nd	釹	Neodymium	Neođimi
+61	Pm	鉕	Promethium	Promethi
+62	Sm	釤	Samarium	Samari
+63	Eu	銪	Europium	Europi
+64	Gd	釓	Gadolinium	Gađolini
+65	Tb	鋱	Terbium	Terbi
+66	Dy	鏑	Dysprosium	Đysprosi
+67	Ho	鈥	Holmium	Holmi
+68	Er	鉺	Erbium	Erbi
+69	Tm	銩	Thulium	Thuli
+70	Yb	鐿	Ytterbium	Ytterbi
+71	Lu	鎦、鑥	Lutetium	Luteti
+72	Hf	鉿	Hafnium	Hafni
+73	Ta	鉭	Tantalum	Tantali
+74	W	鎢	Tungsten	Vu
+75	Re	錸	Rhenium	Rheni
+76	Os	鋨	Osmium	Osmi
+77	Ir	銥	Iridium	Iriđi
+78	Pt	鉑	Platinum	Bạch-câm
+79	Au	金	Gold	Câm
+80	Hg	汞、銾	Mercury	Sủi-ngần
+81	Tl	鉈	Thallium	Thalli
+82	Pb	鉛	Lead	Duòn/Viền/Dừn/Dìn
+83	Bi	鉍	Bismuth	Bismut
+84	Po	釙	Polonium	Poloni
+85	At	砹、砈	Astatine	Astatin
+86	Rn	氡	Radon	Rađon
+87	Fr	鈁、鍅	Francium	Fransi
+88	Ra	鐳	Radium	Rađi
+89	Ac	錒	Actinium	Aktini
+90	Th	釷	Thorium	Thori
+91	Pa	鏷	Protactinium	Protactini
+92	U	鈾	Uranium	Urani
+93	Np	錼、鎿	Neptunium	Neptuni
+94	Pu	鈽、鐪、鈈	Plutonium	Plutoni
+95	Am	鋂、鎇	Americium	Amerisi
+96	Cm	鋦	Curium	Curi
+97	Bk	鉳、錇	Berkelium	Berkeli
+98	Cf	鉲、鐦	Californium	Californi
+99	Es	鑀、鎄	Einsteinium	Einsteini
+100	Fm	鐨	Fermium	Fermium
+101	Md	鍆	Mendelevium	Mendelevi
+102	No	鍩	Nobelium	Nobelium
+103	Lr	鐒	Lawrencium	Lawrencium
+104	Rf	鑪	Rutherfordium	Rutherfordi
+105	Db	𨧀	Dubnium	Dubnium
+106	Sg	𨭎	Seaborgium	Seaborgi
+107	Bh	𨨏	Bohrium	Bohrium
+108	Hs	𨭆	Hassium	Hassium
+109	Mt	䥑	Meitnerium	Meitneri
+110	Ds	鐽	Darmstadtium	Darmstadti
+111	Rg	錀	Roentgenium	Roentgeni
+112	Cn	鎶	Copernicium	Copernici
+113	Nh	鉨	Nihonium	Nihoni
+114	Fl	鈇	Flerovium	Flerovi
+115	Mc	鏌	Moscovium	Moscovi
+116	Lv	鉝	Livermorium	Livermori
+117	Ts		Tennessine	Tennessin
+118	Og		Oganesson	Oganeson
