@@ -1,0 +1,143 @@
+# Entries with rhyme 'au' (tone marks ignored) from Đại Việt Quóc Yâm Țụ̆ Vội
+# Matching rule: romanization ending matches 'au' after removing tone diacritics
+# e.g. ơ ớ ờ ở ỡ ợ all treated as ơ; ây ấy ầy ẩy ẫy ậy all as ây
+# Total matching entries: 116
+# Source: oatnguquocnguti.yaml
+#Đại Việt Quóc Yâm Țụ̆ Vội大粵國音字匯
+#Țóc-chẻ: Vòng Vân Hạu
+#Bản bủn: 29/3/2026
+#Ni-có Đại Việt Quóc Yâm Țụ̆ Vội sưu nạp chỏ 4808 có sường-dụng hón-țụ̆ ké Việt Ngữ Quóc Ngữ Țụ̆ thung-dụng bản-bủn ké chính-ŧẻ.
+#收錄4808個常用漢字嘅通用版本嘅正寫
+#Ni-có thung-dụng bản-bủn ké Việt Țụ̆ kiết-họp chỏ Quỏng-Châu, Thòi-San, Hâm-Châu, Đạm-Châu đẳng đẳng đỵ phong ké Việt Ngữ phát yâm, țạu sình yât có nằng cấu lịnh ŧỏ-dữu Việt Ngữ hẩu-yâm đô nằng cấu việt-đục ké mằn-țụ̆
+#結合廣州話台山話欽州話儋州話等等地方嘅粵語口音，造成一套能夠令所有人讀曉嘅粵語文字
+#Ni-có thung-dụng bản-bủn ké chính-ŧẻ chử-yếu châm-đúi cẩn hón-ngữ ŧương-quan ké txŭ̀-ngữ thùng cóc-chủng Việt Ngữ phóng ngồn nhập miện hỷ nguyền ŧương-thùng ké txŭ̀-ngữ
+#呢個版本主要針對漢字詞同各地粵語嘅同源詞
+#Ni-có bản-bủn dịch đô sưu-nạp chỏ yât bộ-phận sường-dụng ké đỵ-đạu Việt Ngữ đục-yâm
+#呢個版本亦都收錄咗一部份常用嘅地道粵語讀音
+#Ni-có phong-ón pái-xừ chỏ yât-đi dụng-lậy yâm-dịch ngọi-lòi txŭ̀-ngữ ŧiên chi xản-sanh ké hón-țụ̆ phát yâm lụi-hình thùng dừu-ư đo-yâm-țiết txŭ̀-ngữ chung biến-điệu nhì xản-sanh ké hón-țụ̆ phát-yâm cỏi-biến
+#呢個方案排除咗一啲用於音譯外來詞語先至產生嘅漢字發音類型同由於多音節詞語中變調而產生嘅漢字發音改變
+#Đan-țụ̆ ké biến-điệu thùng sường-dụng sịch-bẩn thùng mặt-bẩn ké biến-điệu y-nhiền đăc đáu sưu-nạp.
+#單字嘅變調同常用食品物品嘅變調依然得到收納
+#Ni-có phong-ón thùng cóc đỵ Việt Ngữ đong đỵ ké hẩu-yâm ké sỉ-dụng m̀ xung-đột.
+#呢個版本同各地粵語方言口音嘅使用唔衝突
+#"/" biểu sị "/" ni-có țị txiền-biên ké phát yâm hệ y-ka ké Việt Ngữ chủ-lừu ké phát yâm, "/" hậu biên ké chính ŧẻ hệ cân-cự củ-đọi Việt Ngữ ké phát yâm hệ thùng thui-đoán ké phát yâm.
+#"/"表示"/"前邊嘅發音係依家粵語主流嘅發音，"/"後邊嘅正寫係根據古代粵語嘅發音系統推斷嘅發音
+#Instagram:cantonese_chuquocngu
+#Email: goetiansoc@proton.me
+
+佬	 lổ 	 lỗ 	 lãu
+保	 bảu 
+倒	 đáu 	 đổ 	đảu
+傲	 ngạu 
+冒	 mặc 	 mạu 
+刀	 đau 
+到	 đáu 	 đảu 
+勞	 làu 
+叨	 thau 	 đau 
+告	 cáu 
+吼	 hao 	 hâu 	 hau 	 hẩu 
+啕	 thàu 
+嗥	 hàu 
+嗷	 ngào 	 ngàu 
+嘈	 txàu 
+嘮	 làu 
+噪	 txáu 
+嚎	 hàu 
+報	 báu 
+堡	 bảu 	 pố 
+壕	 hàu 
+套	 tháu 
+奧	 áu 
+好	 háu 	 hảu 
+姥	 lãu 	lỗ	 mỗ 
+嫂	 ŧảu 
+寶	 bảu 
+導	 đạu 
+島	 đảu 
+帽	 mổ 	mãu	 mạu 
+悼	 đạu 
+惱	 nãu 
+懊	 áu 
+挑	 thiêu 	 thau 
+掃	 ŧáu 	 ŧảu 
+掏	 thau 	 thàu 
+搔	 ŧau 
+搗	 đảu 
+撈	 lao 	 lào 	 lô 	 làu 
+操	 txau 	 txáu 
+敖	 ngàu 	 ngạu 
+早	 țảu 
+暴	 bạu 	 bục 
+曝	 bạu 	 bục 
+曹	 txàu 
+桃	 thàu 
+棗	 țảu 
+槁	 cảu 
+槽	 txàu 
+毛	 màu 
+毫	 hàu 
+泡	 pao 	 pào 	 páo 	 pãu 
+浩	 hạu 
+淘	 thàu 
+滔	 thau 
+漕	 txàu 
+潦	 liều 	 liểu 	 liễu 	 lãu 	 lộ 
+澡	 țảu 	 txáu 
+澳	 yuc 	 áu 
+濠	 hàu 
+濤	 thàu 
+灶	 țáu 
+熬	 ngàu 
+燥	 txáu 
+牢	 làu 
+犒	 háu 
+犛	 lỳ 	 mào 	 màu 
+瑁	 mạu 	 mội 
+瑙	 nãu 
+癆	 làu 
+皂	 țạu 
+皓	 hạu 
+盜	 đạu 
+睪	 cau 	 dịch 
+稿	 cảu 
+稻	 đạu 
+篙	 cau 
+糕	 cau 
+糟	 țau 
+糙	 txáu 
+繅	 ŧau 
+羔	 cau 
+翱	 ngàu 
+老	 lãu 
+耗	 háu 
+聱	 ngàu 
+腦	 nãu 
+膏	 cau 	
+草	 txảu 
+萄	 thàu 
+蒿	 hau 
+藻	 țảu 
+號	 hàu 	 hạu 
+蚤	 țảu 
+蠔	 hàu 
+袍	 pàu 
+褒	 bau 
+褓	 bảu 
+襖	 áu 	 ảu 
+討	 thảu 
+誥	 cáu 
+豪	 hàu 
+蹈	 thau 	 đạu 
+躁	 txáu 
+逃	 thàu 
+造	 țạu 	 txáu 	 txãu 
+道	 đạu 
+遨	 ngàu 	 ngạu 
+遭	 țau 
+鏖	 ngàu 	 au 
+陶	 thàu 	 diều 
+韜	 thau 
+騷	 ŧau 
+高	 cau 
+髦	 mau 	 màu 
+鼇	 ngàu 

@@ -1,0 +1,113 @@
+# Entries with initial 'nh' extracted from Đại Việt Quóc Yâm Țụ̆ Vội
+# Total matching entries: 88
+# Source: oatnguquocnguti.yaml
+#Đại Việt Quóc Yâm Țụ̆ Vội大粵國音字匯
+#Țóc-chẻ: Vòng Vân Hạu
+#Bản bủn: 29/3/2026
+#Ni-có Đại Việt Quóc Yâm Țụ̆ Vội sưu nạp chỏ 4808 có sường-dụng hón-țụ̆ ké Việt Ngữ Quóc Ngữ Țụ̆ thung-dụng bản-bủn ké chính-ŧẻ.
+#收錄4808個常用漢字嘅通用版本嘅正寫
+#Ni-có thung-dụng bản-bủn ké Việt Țụ̆ kiết-họp chỏ Quỏng-Châu, Thòi-San, Hâm-Châu, Đạm-Châu đẳng đẳng đỵ phong ké Việt Ngữ phát yâm, țạu sình yât có nằng cấu lịnh ŧỏ-dữu Việt Ngữ hẩu-yâm đô nằng cấu việt-đục ké mằn-țụ̆
+#結合廣州話台山話欽州話儋州話等等地方嘅粵語口音，造成一套能夠令所有人讀曉嘅粵語文字
+#Ni-có thung-dụng bản-bủn ké chính-ŧẻ chử-yếu châm-đúi cẩn hón-ngữ ŧương-quan ké txŭ̀-ngữ thùng cóc-chủng Việt Ngữ phóng ngồn nhập miện hỷ nguyền ŧương-thùng ké txŭ̀-ngữ
+#呢個版本主要針對漢字詞同各地粵語嘅同源詞
+#Ni-có bản-bủn dịch đô sưu-nạp chỏ yât bộ-phận sường-dụng ké đỵ-đạu Việt Ngữ đục-yâm
+#呢個版本亦都收錄咗一部份常用嘅地道粵語讀音
+#Ni-có phong-ón pái-xừ chỏ yât-đi dụng-lậy yâm-dịch ngọi-lòi txŭ̀-ngữ ŧiên chi xản-sanh ké hón-țụ̆ phát yâm lụi-hình thùng dừu-ư đo-yâm-țiết txŭ̀-ngữ chung biến-điệu nhì xản-sanh ké hón-țụ̆ phát-yâm cỏi-biến
+#呢個方案排除咗一啲用於音譯外來詞語先至產生嘅漢字發音類型同由於多音節詞語中變調而產生嘅漢字發音改變
+#Đan-țụ̆ ké biến-điệu thùng sường-dụng sịch-bẩn thùng mặt-bẩn ké biến-điệu y-nhiền đăc đáu sưu-nạp.
+#單字嘅變調同常用食品物品嘅變調依然得到收納
+#Ni-có phong-ón thùng cóc đỵ Việt Ngữ đong đỵ ké hẩu-yâm ké sỉ-dụng m̀ xung-đột.
+#呢個版本同各地粵語方言口音嘅使用唔衝突
+#"/" biểu sị "/" ni-có țị txiền-biên ké phát yâm hệ y-ka ké Việt Ngữ chủ-lừu ké phát yâm, "/" hậu biên ké chính ŧẻ hệ cân-cự củ-đọi Việt Ngữ ké phát yâm hệ thùng thui-đoán ké phát yâm.
+#"/"表示"/"前邊嘅發音係依家粵語主流嘅發音，"/"後邊嘅正寫係根據古代粵語嘅發音系統推斷嘅發音
+#Instagram:cantonese_chuquocngu
+#Email: goetiansoc@proton.me
+
+乳	 nhữ 
+二	 nhị 
+人	 nhần 
+仁	 nhần 
+仍	 nhình 
+仞	 nhận 
+任	 nhầm 	 nhậm 
+偌	 nhược 	 nhẹ 
+僥	 hiêu 	 kiêu 	 kiểu 	 nhiều 	 hiểu 
+儒	 nhừ 
+兒	 ngề 	 nhì 
+入	 nhập 	 dập 
+冉	 nhiễm 
+冗	 nhũng 	 nhủng 
+刃	 nhận 
+嚅	 nhừ 
+嚷	 nhưỡng 	 nhượng 
+堯	 diều 	 nhiều
+壤	 nhưỡng 	 nhượng 
+壬	 nhầm 
+女	 nữ 	 nhữ 
+如	 nhừ 
+妍	 nhiền 
+妊	 nhầm 	 nhậm 
+孺	 nhừ 
+廿	 nhạ 	 ngập 	 nhẹ 
+弱	 nhược 
+忍	 nhẩn 	 nhẫn 
+惹	 nhẽ 
+戎	 nhùng 
+扔	 vinh 	 nhình 
+揉	 nhừu 	
+撓	 nào 	 não 	 	nhào	 nhao 
+擾	 nhiễu 
+攘	 nhường 	 nhưỡng 
+日	 nhật 
+朽	 nhửu 
+染	 nhiễm 
+柔	 nhừu 
+汝	 nhữ 
+洱	 nỷ 	 nhĩ 
+潤	 nhuận 
+濃	 nùng 	 nhùng 
+濡	 nhừ 
+然	 nhiền 
+熱	 nhiệt 
+燃	 nhiền 
+爾	 nhĩ 
+癮	 nhẫn 
+稔	 niêm 	 nẫm 	 nhẫm 
+篛	 nhược 
+紉	 nhần 	 nhận 
+絨	 nhùng 	
+繞	 nhiểu 	 nhiễu 
+而	 nhì 
+耳	 nhĩ 
+肉	 nhục 
+若	 nhược 	 nhẽ 
+苒	 nhiễm 
+茸	 nhùng 	
+荏	 nhấm 	 nhẫm 
+茹	 nhừ 	 nhự 
+蕊	 nhũi 	
+蟯	 nào 	 nhiều 
+蠕	 nhừ 
+褥	 nhục 
+認	 nhận 	 nhịnh 	
+諉	 vỷ 	 nhụi 
+讓	 nhượng 
+貳	 nhị 
+賃	 nhậm 
+踩	 xải 	 xỏi 	 nhải 
+蹂	 nhầu 	nhậu	 nhẫu 
+軔	 nhận 
+軟	 nhuyễn 
+辱	 nhục 
+邇	 nhĩ 
+釀	 nhượng 
+銳	 nhụi 
+鐃	 nào 	 nhiều 
+閏	 nhuận 
+鞣	 nhầu 
+韌	 ngận 	 nhận 
+飪	 nhẫm 	 nhậm 
+飲	 nhấm 	 nhẩm 
+餌	 nỵ 	 nhị 	 nhĩ
+饒	 nhiều 
+髯	 nhiềm 	 nhiệm 

@@ -1,0 +1,251 @@
+# Entries with initial 'ŧ' extracted from Đại Việt Quóc Yâm Țụ̆ Vội
+# Total matching entries: 226
+# Source: oatnguquocnguti.yaml
+#Đại Việt Quóc Yâm Țụ̆ Vội大粵國音字匯
+#Țóc-chẻ: Vòng Vân Hạu
+#Bản bủn: 29/3/2026
+#Ni-có Đại Việt Quóc Yâm Țụ̆ Vội sưu nạp chỏ 4808 có sường-dụng hón-țụ̆ ké Việt Ngữ Quóc Ngữ Țụ̆ thung-dụng bản-bủn ké chính-ŧẻ.
+#收錄4808個常用漢字嘅通用版本嘅正寫
+#Ni-có thung-dụng bản-bủn ké Việt Țụ̆ kiết-họp chỏ Quỏng-Châu, Thòi-San, Hâm-Châu, Đạm-Châu đẳng đẳng đỵ phong ké Việt Ngữ phát yâm, țạu sình yât có nằng cấu lịnh ŧỏ-dữu Việt Ngữ hẩu-yâm đô nằng cấu việt-đục ké mằn-țụ̆
+#結合廣州話台山話欽州話儋州話等等地方嘅粵語口音，造成一套能夠令所有人讀曉嘅粵語文字
+#Ni-có thung-dụng bản-bủn ké chính-ŧẻ chử-yếu châm-đúi cẩn hón-ngữ ŧương-quan ké txŭ̀-ngữ thùng cóc-chủng Việt Ngữ phóng ngồn nhập miện hỷ nguyền ŧương-thùng ké txŭ̀-ngữ
+#呢個版本主要針對漢字詞同各地粵語嘅同源詞
+#Ni-có bản-bủn dịch đô sưu-nạp chỏ yât bộ-phận sường-dụng ké đỵ-đạu Việt Ngữ đục-yâm
+#呢個版本亦都收錄咗一部份常用嘅地道粵語讀音
+#Ni-có phong-ón pái-xừ chỏ yât-đi dụng-lậy yâm-dịch ngọi-lòi txŭ̀-ngữ ŧiên chi xản-sanh ké hón-țụ̆ phát yâm lụi-hình thùng dừu-ư đo-yâm-țiết txŭ̀-ngữ chung biến-điệu nhì xản-sanh ké hón-țụ̆ phát-yâm cỏi-biến
+#呢個方案排除咗一啲用於音譯外來詞語先至產生嘅漢字發音類型同由於多音節詞語中變調而產生嘅漢字發音改變
+#Đan-țụ̆ ké biến-điệu thùng sường-dụng sịch-bẩn thùng mặt-bẩn ké biến-điệu y-nhiền đăc đáu sưu-nạp.
+#單字嘅變調同常用食品物品嘅變調依然得到收納
+#Ni-có phong-ón thùng cóc đỵ Việt Ngữ đong đỵ ké hẩu-yâm ké sỉ-dụng m̀ xung-đột.
+#呢個版本同各地粵語方言口音嘅使用唔衝突
+#"/" biểu sị "/" ni-có țị txiền-biên ké phát yâm hệ y-ka ké Việt Ngữ chủ-lừu ké phát yâm, "/" hậu biên ké chính ŧẻ hệ cân-cự củ-đọi Việt Ngữ ké phát yâm hệ thùng thui-đoán ké phát yâm.
+#"/"表示"/"前邊嘅發音係依家粵語主流嘅發音，"/"後邊嘅正寫係根據古代粵語嘅發音系統推斷嘅發音
+#Instagram:cantonese_chuquocngu
+#Email: goetiansoc@proton.me
+
+三	 ŧam 
+些	 ŧe 
+仙	 ŧiên 
+伺	 țụ̆  	 ŧụ̆  
+信	 ŧấn 	 ŧân 
+倩	 ŧiến 	 ŧiện 	 xính 
+修	 ŧưu 
+傘	 ŧán 
+僧	 țăng 	 ŧăng 
+先	 ŧiên 
+刺	 ŧích 	 txŭ́ 	 txích 	
+削	 ŧước 	
+勢	 ŧế 
+卅	 ŧa 	 ŧạp 
+卸	 ŧé 
+卹	 ŧuât 
+參	 ŧam 	 sâm 	 txam 	 xâm 
+司	 ŧŭ 
+哂	 xẩn 	ŧái
+哨	 ŧáo 
+唆	 ŧo 
+喧	 huyên 	ŧuyên
+喪	 ŧong 	 ŧóng 
+嗓	 ŧong 	 ŧỏng 
+嗦	 ŧo 	 ŧóc 
+嗇	 ŧich 
+嗾	 țục 	 ŧẩu 
+嗽	 ŧấu 
+嘶	 ŧây 	 ŧŭ 
+嘯	 ŧiếu 	
+囌	 ŧô 
+四	 ŧŭ́  	 ŧý 
+圾	 ŧáp 
+塞	 ŧăc 	ŧói	 txói 
+塑	 ŧóc 	 ŧố 
+夙	 ŧuc 
+姓	 ŧính 	 ŧiếng 
+娑	 ŧo 
+婿	 ŧấy
+媳	 ŧich 
+嫂	 ŧảu 
+孫	 ŧôn 
+宋	 ŧúng 
+宣	 ŧuyên 
+宵	 ŧiêu 
+宿	 ŧuc 	 ŧứu 
+寫	 ŧẻ 
+寺	 țụ̆   txụ̆ 	 ŧị 
+小	 ŧiểu 
+尿	 niệu 	 ŧư 
+屑	 ŧiết 
+巳	 țụ̆  	ŧị
+巽	 ŧuấn 
+廂	 ŧương 
+廝	 ŧŭ 
+彗	 ŧụi 	 vỵ 
+徇	 ŧuân 
+徙	 ŧải 
+心	 ŧâm 
+性	 ŧính 
+思	 ŧŭ 	 ŧoi 	
+恤	 ŧuât/ŧuyêt 
+息	 ŧich 	 ŧăc 
+悚	 ŧủng 
+悉	 ŧich 
+悴	 ŧũi 	 ŧụi 
+惜	 ŧich 	 ŧiếc 
+惺	 ŧinh 	 ŧỉnh 
+想	 ŧưởng 
+慫	 ŧủng 
+戌	 ŧuât 
+戍	 ŧứ 
+所	 sỏ 	ŧỏ
+捎	 sao 	 ŧiêu 
+掃	 ŧáu 	 ŧảu 
+搜	 ŧưu 	 ŧửu 
+搔	 ŧau 
+損	 ŧổn 
+撕	 ŧŭ 
+撒	 ŧát 
+擻	 ŧấu 	 ŧẩu 
+散	 ŧán 	 ŧản 
+斜	 txè 	ŧè	 txé 	 dè 
+斯	 ŧŭ 
+新	 ŧân 
+旌	 ținh 	 ŧinh 
+昔	 ŧich 
+星	 ŧinh 	 ŧiêng  
+晰	 ŧich 
+暹	 txiêm 	ŧiếm	 txiếm 
+析	 ŧich 
+桑	 ŧong 
+梭	 ŧo 
+森	 ŧâm 
+楔	 ŧiết 
+榫	 ŧuẩn 
+歲	 ŧúi 
+死	 ŧŭ̉  	 ŧỷ 
+殉	 ŧuân 
+泄	 ŧiết 	 dậy
+泗	 ŧŭ́  	 ŧý 
+洗	 ŧiển 	 ŧể 
+消	 ŧiêu 
+浚	 țuấn 	 ŧuấn 
+淞	 ŧung 
+淅	 ŧich 
+渲	 ŧuyên 	
+湘	 ŧương 
+漱	 ŧấu 	 số 
+濬	 țuấn 	 ŧuấn 
+瀉	 ŧé 	 ŧẻ 
+瀟	 ŧiêu 
+熄	 ŧich 
+燧	 ŧụi 
+燮	 ŧiếp 	 ŧiết 
+犀	 ŧê 
+猩	 ŧinh 
+瑣	 ŧỏ 
+璽	 ŧải 
+甦	 ŧô 
+瘁	 ŧụi 
+癬	 ŧiển 
+相	 ŧương 	 ŧướng 
+硝	 ŧiêu 
+碎	 ŧúi 
+祀	 țụ̆ 	 ŧụ̆ 
+祟	 ŧụi 
+私	 ŧŭ 
+秀	 ŧứu 
+穌	 ŧô 
+穗	 ŧụi 
+穡	 ŧich 
+竊	 ŧiết 
+笑	 ŧiếu 
+筍	 ŧuẩn 
+算	 ŧuón 
+箱	 ŧương 
+篡	 sán 	 xuyến 	ŧán 
+簫	 ŧiêu 
+粟	 ŧuc 
+粹	 ŧúi 	
+素	 ŧố 
+索	 sách 	 ŧóc 
+細	 ŧế 
+絮	 ŧứ 	 ŧữ 	 ŧự 
+絲	 ŧŭ 
+絢	 huyến 	 ŧuân 
+綏	 ŧui 
+線	 ŧiến 
+縮	 ŧuc 
+繅	 ŧau 
+繡	 ŧứu 
+羞	 ŧưu 
+聳	 ŧủng 
+肆	 ŧŭ́  	 ŧý 
+肄	 ŧŭ́  	 dị 
+肅	 ŧuc 
+肖	 ŧiêu 	 txiếu 
+胥	 ŧư 
+腥	 ŧinh 	 ŧênh 	ŧiêng	 ŧính 
+腮	 ŧoi 
+腺	 ŧiến 
+膝	 ŧât 
+艘	 ŧâu 	 ŧẩu 
+荀	 ŧuân 
+莘	 ŧân 
+萃	 ŧụi 
+萱	 huyên 	 ŧuyên 
+蒜	 ŧuón 
+蓀	 ŧôn 
+蓿	 ŧuc 
+蕈	 ŧuấn  	 txẫm 
+蕭	 ŧiêu 
+薪	 ŧân 
+薛	 ŧiết 
+薩	 ŧát 
+藪	 ŧửu 
+蘇	 ŧô 
+蘚	 ŧiển 
+蜥	 ŧich 
+蟋	 ŧich 
+褻	 ŧiết 
+西	 ŧây/ŧê 
+訊	 ŧuấn 	 ŧấn
+訴	 ŧố 
+詢	 ŧuân 
+賽	 txói 	 ŧói 
+迅	 ŧuấn 	 ŧấn
+送	 ŧúng 
+逍	 ŧiêu 
+速	 txuc 	 ŧuc
+遂	 ŧụi 
+遜	 ŧuấn 
+選	 ŧuyến 	 ŧuyển 
+還	 ŧuyền 	 vàn 
+酥	 ŧô 
+酸	 ŧuon 
+醒	 ŧinh 	 ŧiểng 	 ŧỉnh 
+鋅	 ŧân 
+銷	 ŧiêu 
+錫	 ŧích 	 ŧiếc 	
+鎖	 ŧỏ 
+鏽	 ŧấu 	 ŧứu
+鑲	 ŧương 
+隧	 ŧụi 
+雋	 țuấn 	 ŧuyễn 	 txuyễn 
+雖	 ŧui 
+雪	 ŧuyết 
+需	 ŧư 
+霄	 ŧiêu 
+霎	 sáp 	 ŧáp
+鞘	 ŧao 	ŧiếu	 txiếu 
+須	 ŧư 
+頌	 țụng 	 ŧụng 
+颯	 ŧáp 
+颼	 ŧâu 
+飧	 ŧôn 
+餿	 ŧuc 	sâu	 ŧâu 
+馴	 ŧuần 	suần	 txuần 
+駟	 ŧŭ́  
+騷	 ŧau 
+鬆	 ŧung 
+鬚	 ŧô 
+鮮	 ŧiên 	 ŧiển 
+鰓	 ŧoi 
+鷥	 ŧŭ 

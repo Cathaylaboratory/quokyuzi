@@ -1,0 +1,34 @@
+# Entries with rhyme 'uot' (tone marks ignored) from Đại Việt Quóc Yâm Țụ̆ Vội
+# Matching rule: romanization ending matches 'uot' after removing tone diacritics
+# e.g. ơ ớ ờ ở ỡ ợ all treated as ơ; ây ấy ầy ẩy ẫy ậy all as ây
+# Total matching entries: 7
+# Source: oatnguquocnguti.yaml
+#Đại Việt Quóc Yâm Țụ̆ Vội大粵國音字匯
+#Țóc-chẻ: Vòng Vân Hạu
+#Bản bủn: 29/3/2026
+#Ni-có Đại Việt Quóc Yâm Țụ̆ Vội sưu nạp chỏ 4808 có sường-dụng hón-țụ̆ ké Việt Ngữ Quóc Ngữ Țụ̆ thung-dụng bản-bủn ké chính-ŧẻ.
+#收錄4808個常用漢字嘅通用版本嘅正寫
+#Ni-có thung-dụng bản-bủn ké Việt Țụ̆ kiết-họp chỏ Quỏng-Châu, Thòi-San, Hâm-Châu, Đạm-Châu đẳng đẳng đỵ phong ké Việt Ngữ phát yâm, țạu sình yât có nằng cấu lịnh ŧỏ-dữu Việt Ngữ hẩu-yâm đô nằng cấu việt-đục ké mằn-țụ̆
+#結合廣州話台山話欽州話儋州話等等地方嘅粵語口音，造成一套能夠令所有人讀曉嘅粵語文字
+#Ni-có thung-dụng bản-bủn ké chính-ŧẻ chử-yếu châm-đúi cẩn hón-ngữ ŧương-quan ké txŭ̀-ngữ thùng cóc-chủng Việt Ngữ phóng ngồn nhập miện hỷ nguyền ŧương-thùng ké txŭ̀-ngữ
+#呢個版本主要針對漢字詞同各地粵語嘅同源詞
+#Ni-có bản-bủn dịch đô sưu-nạp chỏ yât bộ-phận sường-dụng ké đỵ-đạu Việt Ngữ đục-yâm
+#呢個版本亦都收錄咗一部份常用嘅地道粵語讀音
+#Ni-có phong-ón pái-xừ chỏ yât-đi dụng-lậy yâm-dịch ngọi-lòi txŭ̀-ngữ ŧiên chi xản-sanh ké hón-țụ̆ phát yâm lụi-hình thùng dừu-ư đo-yâm-țiết txŭ̀-ngữ chung biến-điệu nhì xản-sanh ké hón-țụ̆ phát-yâm cỏi-biến
+#呢個方案排除咗一啲用於音譯外來詞語先至產生嘅漢字發音類型同由於多音節詞語中變調而產生嘅漢字發音改變
+#Đan-țụ̆ ké biến-điệu thùng sường-dụng sịch-bẩn thùng mặt-bẩn ké biến-điệu y-nhiền đăc đáu sưu-nạp.
+#單字嘅變調同常用食品物品嘅變調依然得到收納
+#Ni-có phong-ón thùng cóc đỵ Việt Ngữ đong đỵ ké hẩu-yâm ké sỉ-dụng m̀ xung-đột.
+#呢個版本同各地粵語方言口音嘅使用唔衝突
+#"/" biểu sị "/" ni-có țị txiền-biên ké phát yâm hệ y-ka ké Việt Ngữ chủ-lừu ké phát yâm, "/" hậu biên ké chính ŧẻ hệ cân-cự củ-đọi Việt Ngữ ké phát yâm hệ thùng thui-đoán ké phát yâm.
+#"/"表示"/"前邊嘅發音係依家粵語主流嘅發音，"/"後邊嘅正寫係根據古代粵語嘅發音系統推斷嘅發音
+#Instagram:cantonese_chuquocngu
+#Email: goetiansoc@proton.me
+
+咄	 chuót 	 xuyết 	 đuyêt 	 đuât 
+啜	 țuot 	 txuót 
+拙	 chuót 	
+撮	 xuót 	
+曰	 uót 	 dước 
+脫	 thuót 	
+茁	 chuót 	 chuyết 	 chuất 

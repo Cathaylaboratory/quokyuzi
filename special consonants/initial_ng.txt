@@ -1,0 +1,191 @@
+# Entries with initial 'ng' extracted from Đại Việt Quóc Yâm Țụ̆ Vội
+# Total matching entries: 166
+# Source: oatnguquocnguti.yaml
+#Đại Việt Quóc Yâm Țụ̆ Vội大粵國音字匯
+#Țóc-chẻ: Vòng Vân Hạu
+#Bản bủn: 29/3/2026
+#Ni-có Đại Việt Quóc Yâm Țụ̆ Vội sưu nạp chỏ 4808 có sường-dụng hón-țụ̆ ké Việt Ngữ Quóc Ngữ Țụ̆ thung-dụng bản-bủn ké chính-ŧẻ.
+#收錄4808個常用漢字嘅通用版本嘅正寫
+#Ni-có thung-dụng bản-bủn ké Việt Țụ̆ kiết-họp chỏ Quỏng-Châu, Thòi-San, Hâm-Châu, Đạm-Châu đẳng đẳng đỵ phong ké Việt Ngữ phát yâm, țạu sình yât có nằng cấu lịnh ŧỏ-dữu Việt Ngữ hẩu-yâm đô nằng cấu việt-đục ké mằn-țụ̆
+#結合廣州話台山話欽州話儋州話等等地方嘅粵語口音，造成一套能夠令所有人讀曉嘅粵語文字
+#Ni-có thung-dụng bản-bủn ké chính-ŧẻ chử-yếu châm-đúi cẩn hón-ngữ ŧương-quan ké txŭ̀-ngữ thùng cóc-chủng Việt Ngữ phóng ngồn nhập miện hỷ nguyền ŧương-thùng ké txŭ̀-ngữ
+#呢個版本主要針對漢字詞同各地粵語嘅同源詞
+#Ni-có bản-bủn dịch đô sưu-nạp chỏ yât bộ-phận sường-dụng ké đỵ-đạu Việt Ngữ đục-yâm
+#呢個版本亦都收錄咗一部份常用嘅地道粵語讀音
+#Ni-có phong-ón pái-xừ chỏ yât-đi dụng-lậy yâm-dịch ngọi-lòi txŭ̀-ngữ ŧiên chi xản-sanh ké hón-țụ̆ phát yâm lụi-hình thùng dừu-ư đo-yâm-țiết txŭ̀-ngữ chung biến-điệu nhì xản-sanh ké hón-țụ̆ phát-yâm cỏi-biến
+#呢個方案排除咗一啲用於音譯外來詞語先至產生嘅漢字發音類型同由於多音節詞語中變調而產生嘅漢字發音改變
+#Đan-țụ̆ ké biến-điệu thùng sường-dụng sịch-bẩn thùng mặt-bẩn ké biến-điệu y-nhiền đăc đáu sưu-nạp.
+#單字嘅變調同常用食品物品嘅變調依然得到收納
+#Ni-có phong-ón thùng cóc đỵ Việt Ngữ đong đỵ ké hẩu-yâm ké sỉ-dụng m̀ xung-đột.
+#呢個版本同各地粵語方言口音嘅使用唔衝突
+#"/" biểu sị "/" ni-có țị txiền-biên ké phát yâm hệ y-ka ké Việt Ngữ chủ-lừu ké phát yâm, "/" hậu biên ké chính ŧẻ hệ cân-cự củ-đọi Việt Ngữ ké phát yâm hệ thùng thui-đoán ké phát yâm.
+#"/"表示"/"前邊嘅發音係依家粵語主流嘅發音，"/"後邊嘅正寫係根據古代粵語嘅發音系統推斷嘅發音
+#Instagram:cantonese_chuquocngu
+#Email: goetiansoc@proton.me
+
+五	 ñg/ngỗ
+伍	 ñg/ngỗ
+仰	 ngõng 	 ngưỡng 
+俄	 ngò 
+倪	 ngề 
+偽	 ngụy 
+偶	 ngẫu 
+傲	 ngạu 
+儀	 ngì 
+儼	 ngiễm 
+兀	 ngật 
+元	 nguyền 
+兒	 ngề 	 nhì 
+凝	 khình 	 ngình 	ngiềng
+刈	 ngại 	ngọi
+勾	 câu 	 ngâu 
+午	 ñg/ngỗ 
+危	 ngùy 
+原	 nguyền 
+句	 câu 	 cứ 	 ngâu 
+吾	 ǹg/ngồ 
+呆	 ngòi 	ngai	 đai 
+呃	 ach 	 ngach 	 ngăc 	 ăc 
+吳	 ǹg/ngồ 
+呀	 a 	nga	 ngà 	ya	 à 	kẻ
+吟	 ngầm 	 dầm 
+咬	 ngão 	 ngẽo
+哎	 ai 	ây	 ngại 	ầy	 ấy 	ài
+唁	 ngiện 
+哼	 hng 	 hăng 	 hṇg 	ng
+唔	 m̀ 	 ǹg 
+唉	 ai 	 ngại 	 oi 	 ái 	 ại 	ải
+哦	 ngò 	 ò 	 ọ 	 ỏ 	ỏ
+嗑	 háp 	 hóp 	 họp 	 cáp 	 ngơp 
+嗯	 n̉g 	 ñg 	 ǹg 	 ṇg 
+嗷	 ngào 	 ngàu 
+噩	 ngọc 
+嚴	 ngiềm 
+囈	 ngệ 
+垠	 ngần 
+外	 ngọi 
+娛	 ngừ 
+娥	 ngò 
+孽	 ngiệp 	 ngiệt 
+宜	 ngì 
+寓	 ngự 
+寤	 ṇg/ngộ 
+屹	 ngật 
+岌	 khâp 	 cập 	 ngập 
+岸	 ngọn 
+岩	 ngàm 
+岳	 ngọc 
+峨	 ngò 
+崖	 ngài 
+嶽	 ngọc 
+巍	 ngầy 
+巖	 ngàm 	
+廿	 nhạ 	 ngập 	 nhẹ 
+彥	 ngiện 	 diện 	ngạn
+御	 ngự 
+悟	 ṇg/ngộ 
+愕	 ngọc 
+愚	 ngừ 
+愿	 nguyện 
+我	 ngõ 
+捂	 ủ 	 ṇg 
+捱	 ngài 
+擬	 ngĩ 
+敖	 ngàu 	 ngạu 
+昂	 ngòng 	 ngõng 
+晤	 ṇg 
+月	 nguyệt 
+桅	 ngùy 	 vỳ 
+梧	 ǹg/ngồ 
+業	 ngiệp 
+樂	 lọc 	 ngạo 	 ngọc 
+歹	 ngạt 	 đải 
+毅	 ngậy 
+沅	 nguyền 
+涯	 ngài 
+淆	 ngào 
+源	 nguyền 
+漁	 ngừ 
+澆	 hiêu 	 kiêu 	 ngiệu 	
+熬	 ngàu 
+爻	 ngào 
+牙	 ngà 
+牛	 ngầu 
+獄	 ngục 
+玉	 ngục 
+玩	 vàn 	 vản 	 ngụn 
+琊	 ngà 	 dè 
+瓦	 ngã 	 ngạ 
+疋	 ngã 	 pât 	 so 
+疑	 ngì 
+疙	 cật 	 ngật 
+瘧	 ngược 
+癌	 ngàm 
+皚	 ngòi 	
+眼	 ngãn 
+睨	 ngệ 
+研	 ngàn 	 ngiền 	
+硬	 ngạnh 
+硯	 ngiện 
+礙	 ngọi 
+禦	 ngự 
+義	 ngị 
+羿	 ngệ 
+翱	 ngàu 
+聱	 ngàu 
+肴	 ngào 
+臥	 ngọ 
+臬	 niệp 	 ngiệt 
+艮	 cấn 	 ngần 
+艾	 ngại 
+芽	 ngà 
+萼	 ngọc 
+藝	 ngệ 
+藕	 ngẫu 
+虐	 ngược 
+虞	 ngừ 
+蜈	 ǹg/ngồ 
+蛾	 ngẫy 	 ngò 
+蟻	 ngẫy 
+衙	 ngà 
+言	 ngiền 	ngồn
+訖	 cât 	 ngật 
+訝	 ngạ 
+訛	 ngò 
+詣	 ngệ 
+語	 ngữ 	 ngự 
+誤	 ṇg/ngộ 
+誼	 ngị 
+諺	 ngiện 
+議	 ngĩ 	 ngí 
+贗	 ngạn 
+迄	 hât 	 ngật 
+迎	 ngình 	ngềnh	 ngiềng 
+逆	 ngạch 	 ngịch 
+遇	 ngự 
+遨	 ngàu 	 ngạu 
+鄂	 ngọc 
+鉤	 câu 	 ngâu 
+銀	 ngần 
+鏖	 ngàu 	 au 
+閡	 hật 	 coi 	 ngọi 
+阮	 nguyễn
+隅	 ngừ 
+雁	 ngạn 
+雅	 ngã 
+霓	 ngề 
+韌	 ngận 	 nhận 
+額	 ngạch 
+顏	 ngàn 
+顎	 ngọc 
+願	 nguyện 
+餓	 ngọ 
+馭	 ngự 
+驗	 ngiệm 
+魏	 ngụy 
+魚	 ngừ 	 dử 
+鱷	 ngọc 
+鵝	 ngò 	 ngỏ 
+鼇	 ngàu 
+齦	 hẩn 	 ngần 
+齬	 ngữ 

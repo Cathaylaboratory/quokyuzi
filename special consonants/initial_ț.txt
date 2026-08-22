@@ -1,0 +1,261 @@
+# Entries with initial 'ț' extracted from Đại Việt Quóc Yâm Țụ̆ Vội
+# Total matching entries: 236
+# Source: oatnguquocnguti.yaml
+#Đại Việt Quóc Yâm Țụ̆ Vội大粵國音字匯
+#Țóc-chẻ: Vòng Vân Hạu
+#Bản bủn: 29/3/2026
+#Ni-có Đại Việt Quóc Yâm Țụ̆ Vội sưu nạp chỏ 4808 có sường-dụng hón-țụ̆ ké Việt Ngữ Quóc Ngữ Țụ̆ thung-dụng bản-bủn ké chính-ŧẻ.
+#收錄4808個常用漢字嘅通用版本嘅正寫
+#Ni-có thung-dụng bản-bủn ké Việt Țụ̆ kiết-họp chỏ Quỏng-Châu, Thòi-San, Hâm-Châu, Đạm-Châu đẳng đẳng đỵ phong ké Việt Ngữ phát yâm, țạu sình yât có nằng cấu lịnh ŧỏ-dữu Việt Ngữ hẩu-yâm đô nằng cấu việt-đục ké mằn-țụ̆
+#結合廣州話台山話欽州話儋州話等等地方嘅粵語口音，造成一套能夠令所有人讀曉嘅粵語文字
+#Ni-có thung-dụng bản-bủn ké chính-ŧẻ chử-yếu châm-đúi cẩn hón-ngữ ŧương-quan ké txŭ̀-ngữ thùng cóc-chủng Việt Ngữ phóng ngồn nhập miện hỷ nguyền ŧương-thùng ké txŭ̀-ngữ
+#呢個版本主要針對漢字詞同各地粵語嘅同源詞
+#Ni-có bản-bủn dịch đô sưu-nạp chỏ yât bộ-phận sường-dụng ké đỵ-đạu Việt Ngữ đục-yâm
+#呢個版本亦都收錄咗一部份常用嘅地道粵語讀音
+#Ni-có phong-ón pái-xừ chỏ yât-đi dụng-lậy yâm-dịch ngọi-lòi txŭ̀-ngữ ŧiên chi xản-sanh ké hón-țụ̆ phát yâm lụi-hình thùng dừu-ư đo-yâm-țiết txŭ̀-ngữ chung biến-điệu nhì xản-sanh ké hón-țụ̆ phát-yâm cỏi-biến
+#呢個方案排除咗一啲用於音譯外來詞語先至產生嘅漢字發音類型同由於多音節詞語中變調而產生嘅漢字發音改變
+#Đan-țụ̆ ké biến-điệu thùng sường-dụng sịch-bẩn thùng mặt-bẩn ké biến-điệu y-nhiền đăc đáu sưu-nạp.
+#單字嘅變調同常用食品物品嘅變調依然得到收納
+#Ni-có phong-ón thùng cóc đỵ Việt Ngữ đong đỵ ké hẩu-yâm ké sỉ-dụng m̀ xung-đột.
+#呢個版本同各地粵語方言口音嘅使用唔衝突
+#"/" biểu sị "/" ni-có țị txiền-biên ké phát yâm hệ y-ka ké Việt Ngữ chủ-lừu ké phát yâm, "/" hậu biên ké chính ŧẻ hệ cân-cự củ-đọi Việt Ngữ ké phát yâm hệ thùng thui-đoán ké phát yâm.
+#"/"表示"/"前邊嘅發音係依家粵語主流嘅發音，"/"後邊嘅正寫係根據古代粵語嘅發音系統推斷嘅發音
+#Instagram:cantonese_chuquocngu
+#Email: goetiansoc@proton.me
+
+且	 țư 	  txẻ 
+井	 țỉnh 
+什	 țạp 	 sậm 	 sập 
+仔	 chẩy 	țể	 țŭ̉  
+佐	 țó 	 țỏ 
+伺	 țụ̆  	 ŧụ̆  
+作	 țóc 
+俟	 țụ̆  	 khỳ 
+俊	 țuấn 
+俗	 țục 
+俎	 țỏ 
+借	 țé 
+做	 chộ 	 țộ 
+傯	 țúng 	 țủng 
+僧	 țăng 	 ŧăng 
+僭	 țiếm 	 txiếm 	
+像	 țượng 
+儘	 țẩn 	 țận 
+再	 țói 
+最	 țúi 
+則	 țăc 
+剪	 țiển 
+剿	 țiểu 	 xao 
+劑	 țê 	 țệ 
+勦	 țiểu 	 xao 	 xào 
+匠	 țượng 
+卒	 țôt 	 txuyết 
+即	 țich 
+咀	 țủi 
+咨	 țŭ  
+哉	 țoi 
+咱	 cha 	 ța
+唧	 țich 	 țiết 	 chêc 
+啜	 țuot 	 txuót 
+嗟	 țe 
+嗣	 țụ̆ 
+嗾	 țục 	 ŧẩu 
+嘴	 țủi 
+嚼	 țiệu 	 țược 
+在	 țọi 
+坐	 țọ 	 txõ 
+增	 țăng 
+夕	 țịch 
+奏	 țứu 	
+姐	 țẻ 
+姊	 țỉ 	 țŭ̉ 	 țỷ 
+姿	 țŭ  
+子	 țŭ̉  
+字	 țụ̆  
+孜	 țŭ  
+孳	 țŭ  
+宗	 țung 
+宰	 țỏi 
+寂	 țịch 
+寺	 țụ̆   txụ̆ 	 ŧị 
+將	 țương 	 țướng 	 txương 
+尊	 țôn 
+尖	 țiêm 
+就	 țựu 
+岫	 țựu 
+峻	 țuấn 
+嶼	 țự 	 dừ 
+左	 țỏ 
+巳	 țụ̆  	ŧị
+帚	 chảo 	 țửu 
+席	 țiệc 	 țịch 
+序	 țự 
+座	 țọ 
+怎	 țẩm 
+恣	 țŭ  	 țŭ́  	 txŭ 	 txŭ́ 
+憎	 țăng 
+戢	 țâp 	 txâp 
+截	 țiệt 
+接	 țiếp 
+捷	 țiết 	țiệp	 țiệt 
+揍	 țấu 	 txấu 
+揪	 țưu 
+擠	 chây 	țây
+敘	 țự 
+族	 țục
+旌	 ținh 	 ŧinh 
+早	 țảu 
+昨	 țọc 
+晉	 țấn 
+晶	 ținh 
+暫	 țạm 
+曾	 țăng 	 txằng 
+柞	 chá 	 țách 	 țóc 	 țọc 
+栽	 țoi 
+梓	 țŭ̉  
+棕	 țung 
+棗	 țảu 
+椒	 țiêu 
+楫	 țiếp 
+榛	 țân 
+榭	 țẹ 
+槳	 țưởng 
+樅	 țung 	 txung 
+樽	 țuân 	 țuyên
+橡	 țượng 
+櫛	 țiết 
+汐	 țịch 
+沮	 țư 	 țử 
+津	 țuân 
+浸	 chấm 	 țấm 
+浚	 țuấn 	 ŧuấn 
+淙	 țung 	 txùng 	
+淄	 țŭ  
+湔	 țiên 	
+滋	 țŭ  
+滓	 țŭ̉  
+漬	 țich 	 țŭ́ 	 țụ̆ 
+漸	 țiêm 	 țiệm 
+漿	 țương 
+澡	 țảu 	 txáu 
+濟	 țế 	 țể 
+濬	 țuấn 	 ŧuấn 
+濺	 țiên 	țạn	 țiến 
+灶	 țáu 
+災	 țoi 
+焦	 țiêu 
+煎	 chiên/țiên 
+爵	 țước 
+狙	 țư 
+獎	 țưởng 
+疾	 țật 
+疽	 țư 	
+瘠	 țích 	 țiếc 	
+皂	 țạu 
+盡	 țận 
+睛	 ținh 
+睫	 țiếp 	 țiệt 
+矽	 țịch 
+砸	 țách 	 țáp 
+祀	 țụ̆ 	 ŧụ̆ 
+祖	 țổ 
+祚	 țộ 
+祭	 țái 	 țế 
+租	 țô 
+稷	 țich 
+積	 țich 
+竣	 țuấn 
+節	 țiết 
+箋	 țiên 
+箭	 țiến 
+簇	 țục 	 txuc 
+簪	 țam 
+籍	 țịch 
+粽	 țúng 	 țủng 
+精	 ținh 	 țiêng 
+糟	 țau 
+組	 țổ 
+絕	 țuyệt 	
+紫	 țŭ̉  
+綜	 țung 	 țúng 
+緇	 țŭ 
+績	 țich 	tiếc 
+總	 țủng 
+縱	 țung 	 țúng 	
+織	 țich 	
+纂	 țuyển 	 sán 
+續	 țục 
+罪	 țụi 
+習	 țập 
+耜	 țụ̆ 
+聚	 țự 
+脊	 țích 	 țiếc 
+臟	 țọng 
+臧	 țong 	 țọng 	 txòng 
+自	 țụ̆  
+荐	 țiến 	
+茲	 țŭ  	xŭ̀	 txŭ̀  
+菁	 ținh 	 txinh 
+葬	 țóng 
+蓆	 țiệc 	 țịch 
+蔣	 țương 	 țưởng 
+蕉	 țiêu 
+藏	 țong 	 țọng 	 txòng 
+藉	 țẹ 	 țịch 
+藻	 țảu 
+蚤	 țảu 
+蛆	 țư 	 txư 
+袖	 țựu 
+襲	 țập 	
+訟	 țụng 
+誦	 țụng 
+諮	 țŭ  
+謝	 țẹ 
+象	 țượng 
+資	 țŭ  
+貲	 țŭ  
+賤	 țiện 
+贈	 țặng 
+贊	 țán 
+贓	 țong 
+贖	 țục 	 sục 
+走	 țẩu 
+足	 țuc 	 țứ 
+跡	 țich 	 țếc 
+踐	 țiện 	 txiễn 
+蹤	 țung 
+蹲	 țôn 	 txuyền 	 đuân 
+載	 țói 	 țọi 	 țỏi 
+輜	 țŭ  
+造	 țạu 	 txáu 	 txãu 
+進	 țấn 
+遭	 țau 
+遵	 țôn 
+酒	 țửu 
+醉	 țúi 
+醬	 țướng 
+錢	 țiển 	 txiền 	 txiển 
+鏃	 țục 
+鑽	 țuon 	 țuón 
+鑿	 țọc 
+阱	 țiểng 	 tịnh 	 țiệng 
+際	 țế 
+雀	 țước 	 țưởc 
+雋	 țuấn 	 ŧuyễn 	 txuyễn 
+集	 țập 
+雜	 țạp 
+霽	 țế 	 txề 
+靖	 țịnh 	 țĩnh
+靜	 țẹng 	 țịnh 
+頌	 țụng 	 ŧụng 
+食	 țụ̆ 	 sịch 	
+飼	 țụ̆  
+餞	 țiến/țín 	 țiện/țịn 
+駿	 țuấn 
+髒	 țong 
+髭	 țŭ 
+鬃	 țung 	 txùng 
+鯽	 țich 	 țăc 
+鵲	 țước 	 txước 
+齊	 chai 	 țŭ  	 txề 
+齟	 țữ 	 țử 

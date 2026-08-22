@@ -1,0 +1,229 @@
+# Entries with initial 'tx' extracted from Đại Việt Quóc Yâm Țụ̆ Vội
+# Total matching entries: 204
+# Source: oatnguquocnguti.yaml
+#Đại Việt Quóc Yâm Țụ̆ Vội大粵國音字匯
+#Țóc-chẻ: Vòng Vân Hạu
+#Bản bủn: 29/3/2026
+#Ni-có Đại Việt Quóc Yâm Țụ̆ Vội sưu nạp chỏ 4808 có sường-dụng hón-țụ̆ ké Việt Ngữ Quóc Ngữ Țụ̆ thung-dụng bản-bủn ké chính-ŧẻ.
+#收錄4808個常用漢字嘅通用版本嘅正寫
+#Ni-có thung-dụng bản-bủn ké Việt Țụ̆ kiết-họp chỏ Quỏng-Châu, Thòi-San, Hâm-Châu, Đạm-Châu đẳng đẳng đỵ phong ké Việt Ngữ phát yâm, țạu sình yât có nằng cấu lịnh ŧỏ-dữu Việt Ngữ hẩu-yâm đô nằng cấu việt-đục ké mằn-țụ̆
+#結合廣州話台山話欽州話儋州話等等地方嘅粵語口音，造成一套能夠令所有人讀曉嘅粵語文字
+#Ni-có thung-dụng bản-bủn ké chính-ŧẻ chử-yếu châm-đúi cẩn hón-ngữ ŧương-quan ké txŭ̀-ngữ thùng cóc-chủng Việt Ngữ phóng ngồn nhập miện hỷ nguyền ŧương-thùng ké txŭ̀-ngữ
+#呢個版本主要針對漢字詞同各地粵語嘅同源詞
+#Ni-có bản-bủn dịch đô sưu-nạp chỏ yât bộ-phận sường-dụng ké đỵ-đạu Việt Ngữ đục-yâm
+#呢個版本亦都收錄咗一部份常用嘅地道粵語讀音
+#Ni-có phong-ón pái-xừ chỏ yât-đi dụng-lậy yâm-dịch ngọi-lòi txŭ̀-ngữ ŧiên chi xản-sanh ké hón-țụ̆ phát yâm lụi-hình thùng dừu-ư đo-yâm-țiết txŭ̀-ngữ chung biến-điệu nhì xản-sanh ké hón-țụ̆ phát-yâm cỏi-biến
+#呢個方案排除咗一啲用於音譯外來詞語先至產生嘅漢字發音類型同由於多音節詞語中變調而產生嘅漢字發音改變
+#Đan-țụ̆ ké biến-điệu thùng sường-dụng sịch-bẩn thùng mặt-bẩn ké biến-điệu y-nhiền đăc đáu sưu-nạp.
+#單字嘅變調同常用食品物品嘅變調依然得到收納
+#Ni-có phong-ón thùng cóc đỵ Việt Ngữ đong đỵ ké hẩu-yâm ké sỉ-dụng m̀ xung-đột.
+#呢個版本同各地粵語方言口音嘅使用唔衝突
+#"/" biểu sị "/" ni-có țị txiền-biên ké phát yâm hệ y-ka ké Việt Ngữ chủ-lừu ké phát yâm, "/" hậu biên ké chính ŧẻ hệ cân-cự củ-đọi Việt Ngữ ké phát yâm hệ thùng thui-đoán ké phát yâm.
+#"/"表示"/"前邊嘅發音係依家粵語主流嘅發音，"/"後邊嘅正寫係根據古代粵語嘅發音系統推斷嘅發音
+#Instagram:cantonese_chuquocngu
+#Email: goetiansoc@proton.me
+
+七	 txât 
+且	 țư 	  txẻ 
+似	 txŭ̃ 
+侵	 txâm 
+俏	 txiếu 
+促	 txuc 
+倉	 txong 
+催	 txui 
+僭	 țiếm 	 txiếm 	
+全	 txuyền 
+冊	 txách 
+切	 txiết 	 txấy 
+刷	 sát 	 txát 
+刺	 ŧích 	 txŭ́ 	 txích 	
+前	 txiền 
+匆	 txung 
+千	 txiên 
+仟	 txiên 
+卒	 țôt 	 txuyết 
+厝	 txố 
+參	 ŧam 	 sâm 	 txam 	 xâm 
+取	 txử 
+吋	 txuón 	
+啜	 țuot 	 txuót 
+啾	 chưu 	txưu
+嘈	 txàu 
+噪	 txáu 
+囚	 txừu 
+囪	 thung 	 txung 
+坐	 țọ 	 txõ 
+塞	 ŧăc 	ŧói	 txói 
+塹	 txiếm 
+妾	 txiếp 
+妻	 txê 
+姒	 txŭ̃ 
+娶	 txử 	 txổ 	
+存	 txồn 
+寢	 txẩm 
+寸	 txốn 
+寺	 țụ̆   txụ̆ 	 ŧị 
+將	 țương 	 țướng 	 txương 
+尋	 txầm 
+層	 txằng 
+峭	 txiếu 
+崔	 txui 	
+差	 xa 	 xai 	 txŭ 
+庠	 txường 
+廁	 txŭ́ 
+彩	 txỏi 
+徐	 txừ 
+從	 chụng 	 	sung	 txùng 
+循	 txuần 
+忖	 txổn 
+恣	 țŭ  	 țŭ́  	 txŭ 	 txŭ́ 
+悄	 txiếu 	 txiểu 	 txiêu 
+悽	 txê 
+情	 txình 
+愀	 txiểu 	txưu 
+慈	 txŭ̀  
+慚	 txàm 
+慘	 txảm 
+慼	 txich 
+憔	 txiều 
+戚	 txich 
+戢	 țâp 	 txâp 
+才	 txòi 
+挫	 txó 
+措	 txố 
+採	 txỏi 
+揍	 țấu 	 txấu 
+搶	 txương 	 txưởng 
+摧	 txui 	 txùi 
+操	 txau 	 txáu 
+斜	 txè 	ŧè	 txé 	 dè 
+旬	 txuần 
+晴	 txình 	 txiềng 
+暹	 txiêm 	ŧiếm	 txiếm 
+曹	 txàu 
+曾	 țăng 	 txằng 
+材	 txòi 
+村	 txôn 
+松	 txùng 
+棲	 txê 
+槍	 txương 
+槽	 txàu 
+樅	 țung 	 txung 
+樵	 txiều 
+次	 txŭ́ 
+此	 txŭ̉ 
+殘	 txàn 
+殲	 txiêm 
+泅	 txừu 	
+泉	 txuyền 
+淙	 țung 	 txùng 	
+淺	 txiển 
+清	 txinh 	 txiêng 
+淒	 txê 
+湊	 txấu 
+滄	 txong 
+漆	 txât 
+漕	 txàu 
+潛	 txiềm 
+澡	 țảu 	 txáu 
+燦	 txán 
+燥	 txáu 
+爨	 txuón 
+牆	 txường 
+猜	 txai 
+瓷	 txŭ̀  
+痊	 txuyền 
+疵	 txŭ 	
+皴	 txuân 
+睬	 txỏi 
+砌	 txấy 
+磁	 txŭ̀  
+磋	 txo 
+祠	 txŭ̀ 
+祥	 txường 
+秋	 txưu 
+秦	 txần 
+竄	 txuyến 	 txuyển 
+策	 txách 
+簇	 țục 	 txuc 
+簽	 txiêm 
+籤	 txiêm 
+粗	 txô 
+糙	 txáu 
+綵	 txỏi 
+緝	 txâp 
+纖	 txiêm 
+翔	 txường 
+翠	 txúi 
+聰	 txung 
+肖	 ŧiêu 	 txiếu 
+脆	 txúi 
+臍	 txì 	 txŭ̀ 	 txỳ
+臧	 țong 	 țọng 	 txòng 
+艙	 txong 
+草	 txảu 
+茲	 țŭ  	xŭ̀	 txŭ̀  
+萋	 txê 
+菁	 ținh 	 txinh 
+菜	 txói 
+蒼	 txong 	 txỏng 
+蔡	 txói 
+蔥	 txung 
+蕈	 ŧuấn  	 txẫm 
+薔	 sich 	 txường 
+藏	 țong 	 țọng 	 txòng 
+蛆	 țư 	 txư 
+蜻	 txinh 
+蠶	 txàm 
+裁	 txòi 
+襯	 txấn 
+覃	 thàm 	 txầm 
+親	 txân 	 txấn 
+詞	 txŭ̀  
+詳	 txường 	 dường 
+詮	 txuyền 
+請	 txiểng 	 txỉnh 
+讖	 txấm 
+財	 txòi 
+賊	 txạch	 txặc 
+賜	 txŭ́ 
+賽	 txói 	 ŧói 
+趣	 txứ 	 txẩu 
+趨	 txư 
+踐	 țiện 	 txiễn 
+蹙	 txuc 
+蹲	 țôn 	 txuyền 	 đuân 
+躁	 txáu 
+輯	 txâp 
+辭	 txŭ̀  
+巡	 txuần 
+速	 txuc 	 ŧuc
+造	 țạu 	 txáu 	 txãu 
+遷	 txiên 
+邪	 txè 	 dè 
+酋	 txầu 	 dầu 
+醋	 txố 
+采	 txỏi 
+銓	 txuyền 
+銼	 txó 
+錯	 txó 	 txóc 	 txố 
+錢	 țiển 	 txiền 	 txiển 
+鍬	 txiêu 
+鏘	 txương 
+阡	 txiên 
+隋	 txùi 	 txỳ 
+隨	 txùi 
+雋	 țuấn 	 ŧuyễn 	 txuyễn 
+雌	 txŭ 
+霽	 țế 	 txề 
+青	 txinh 	 txiêng 
+鞘	 ŧao 	ŧiếu	 txiếu 
+鞦	 txưu 
+韆	 txiên 
+餐	 txan 
+馴	 ŧuần 	suần	 txuần 
+鬃	 țung 	 txùng 
+鰍	 txưu 
+鵲	 țước 	 txước 
+齊	 chai 	 țŭ  	 txề 
+齜	 chi/tri 	 txi 
