@@ -1,6 +1,6 @@
 #Đại Việt Quóc Yâm Țụ̆ Vội大粵國音字匯
 #Țóc-chẻ: Vuòng Vân Hạu
-#Bản bủn: 05/10/2026
+#Bản bủn: 18/11/2026
 #Ni-có Đại Việt Quóc Yâm Țụ̆ Vội sưu nạp chỏ 4808 có sường-dụng hón-țụ̆ ké Việt Ngữ Quóc Ngữ Țụ̆ thung-dụng bản-bủn ké chính-ŧẻ.
 #收錄4808個常用漢字嘅通用版本嘅正寫
 #Ni-có thung-dụng bản-bủn ké Việt Țụ̆ kiết-họp chỏ Quỏng-Châu, Thòi-San, Hâm-Châu, Đạm-Châu đẳng đẳng đỵ phong ké Việt Ngữ phát yâm, țạu sình yât có nằng cấu lịnh ŧỏ-dữu Việt Ngữ hẩu-yâm đô nằng cấu việt-đục ké mằn-țụ̆
@@ -13,7 +13,7 @@
 #呢個方案排除咗一啲用於音譯外來詞語先至產生嘅漢字發音類型同由於多音節詞語中變調而產生嘅漢字發音改變
 #Đan-țụ̆ ké biến-điệu thùng sường-dụng sịch-bẩn thùng mặt-bẩn ké biến-điệu y-nhiền đăc đáu sưu-nạp.
 #單字嘅變調同常用食品物品嘅變調依然得到收納
-#Ni-có phong-ón thùng cóc đỵ Việt Ngữ đong đỵ ké hẩu-yâm ké sỉ-dụng m̀ xung-đột.
+#Ni-có phong-ón thùng cóc đỵ Việt Ngữ đong đỵ ké hẩu-yâm ké sỉ-dụng m̀ xung-đặt.
 #呢個版本同各地粵語方言口音嘅使用唔衝突
 #"/" biểu sị "/" ni-có țị txiền-biên ké phát yâm hệ y-ka ké Việt Ngữ chủ-lừu ké phát yâm, "/" hậu biên ké chính ŧẻ hệ cân-cự củ-đọi Việt Ngữ ké phát yâm hệ thùng thui-đoán ké phát yâm.
 #"/"表示"/"前邊嘅發音係依家粵語主流嘅發音，"/"後邊嘅正寫係根據古代粵語嘅發音系統推斷嘅發音
@@ -344,7 +344,7 @@
 凶	 hung 
 凹	 ao 	 lâp 	 nâp 	 va 	 áo 
 出	 xuât 
-凸	 đật 	đột
+凸	 đật 	đặt
 函	 hàm 
 刀	 đau 
 刁	 điêu 
@@ -455,7 +455,7 @@
 仟	 txiên 
 半	 bún 
 卉	 vỹ 	 ủy/húy 
-卒	 țôt 	 txuyết 
+卒	 țôt 	 țuât 	 txứt  	 țăt 
 協	 hiếp 	 hiệp 
 卓	 chước 	 xóc 	 xước 	 chóc 	
 卑	 by 
@@ -849,7 +849,7 @@
 壢	 liệc 	 lẹc 	 lịch 
 壤	 nhưỡng 	 nhượng 
 壩	 bá 
-士	 sụ̆
+士	 sụ̆ 	 sŭ̃ 
 壬	 nhầm 
 壯	 chóng/tróng 	 chọng/choáng 
 壹	 yât 
@@ -1428,7 +1428,7 @@
 愈	 dự 
 慎	 sận 
 慌	 phong/hoang 
-慄	 lột 	 lật 
+慄	 lụt 	 lật 	luật
 慍	 vấn 	
 愾	 khói 
 愴	 xóng 	 xỏng 
@@ -1929,7 +1929,7 @@
 柞	 chá 	 țách 	 țóc 	 țọc 
 柳	 lữu 
 校	 hạo 	 káo 
-核	 hật 	 vột 
+核	 hật 	 vụt 	 vặt 	 họt 
 案	 ón 
 框	 hong 	khong	 khoanh 
 桓	 vùn 
@@ -2976,7 +2976,7 @@
 空	 hung 	 húng 
 穹	 khùng 
 穿	 xuyên 
-突	 đột 
+突	 đặt 
 窄	 chách 
 窈	 miễu 	 yểu 
 窒	 chật 	 điệt 
@@ -3815,7 +3815,7 @@
 訪	 phỏng 
 訝	 ngạ 
 訣	 khuyết 
-訥	 nuật/nột 	 nạp 	 nật 
+訥	 nuật	 nạp 	 nặt 	 nộp
 許	 hử 	 hủi 
 設	 xiết 
 訟	 țụng 
@@ -4675,7 +4675,7 @@
 驢	 lùi 	 lồ 
 驥	 khý 	 ký 
 驪	 lỳ 
-骨	 quât 	 côt 
+骨	 quăt 	 cut  	 quót
 骯	 khóng 	 ong 
 骰	 thầu 
 骷	 phu/khu 
